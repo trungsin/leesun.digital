@@ -1146,12 +1146,12 @@ class Portada_ThemePost
 					if ( is_home() ) {
 					    $html='';
 					} else {
-					$html='
-					<div class="theme-content-header">
-							<h1>'.$html.'</h1>
-						</div>		
-					';
-					
+						$html='
+						<div class="theme-content-header">
+								<h1>'.$html.'</h1>
+							</div>		
+						';
+					}
 				}
 			}
 		}
