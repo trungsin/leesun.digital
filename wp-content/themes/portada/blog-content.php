@@ -113,6 +113,9 @@
 
 						echo $Post->createPostExcerpt($post);
 
+								echo $Post->createPostTag($post);
+
+
 						echo $Post->createPostReadMoreButton($post);
 
 						echo $Post->createPostBar($post);					
