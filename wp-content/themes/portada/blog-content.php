@@ -126,11 +126,13 @@
 
 						echo $Post->createPostCategory($post);
 
+
 						echo $Post->createPostTitle($post,2);	
 
 						echo $Post->createPostAuthorDate($post);
 
 						echo $Post->createPostExcerpt($post,false);
+						echo $Post->createPostTag($post);
 
 						echo $Post->createPostShare($post);	
 					}
