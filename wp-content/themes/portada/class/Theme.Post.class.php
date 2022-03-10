@@ -1143,7 +1143,7 @@ class Portada_ThemePost
 
 				if(($Validation->isNotEmpty($html)) && ($htmlTag))
 				{
-					if ( is_home() ) {
+					if ( is_front_page() ) {
 					    $html='';
 					} else {
 						$html='
