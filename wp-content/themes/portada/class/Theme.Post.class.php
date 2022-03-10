@@ -499,7 +499,7 @@ class Portada_ThemePost
 	
 	function createPostTag($post)
 	{
-		if(post_password_required($post)) return;
+		//if(post_password_required($post)) return;
 		
 		$html=null;
 		
