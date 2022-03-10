@@ -24,7 +24,7 @@
 				
 		echo $Post->createPostDivider($post);
 				
-		echo $Post->createPostImage($post,'single',$widgetAreaData['location']);
+		//echo $Post->createPostImage($post,'single',$widgetAreaData['location']);
 				
 		echo $Post->createPostContent($post);
 				
