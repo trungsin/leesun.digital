@@ -1143,12 +1143,15 @@ class Portada_ThemePost
 
 				if(($Validation->isNotEmpty($html)) && ($htmlTag))
 				{
-					$html=
-					'
-						<div class="theme-content-header">
+					if ( is_home() ) {
+					    $html='';
+					} else {
+					$html='
+					<div class="theme-content-header">
 							<h1>'.$html.'</h1>
-						</div>					
+						</div>		
 					';
+					
 				}
 			}
 		}
