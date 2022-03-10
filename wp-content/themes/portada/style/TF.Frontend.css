@@ -1,0 +1,3231 @@
+
+a,
+body,
+html .woocommerce div.product form.cart .variations label
+{
+	font-size:15px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+a,
+body,
+html .woocommerce div.product form.cart .variations label
+{
+	font-size:15px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+a,
+body,
+html .woocommerce div.product form.cart .variations label
+{
+	font-size:15px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+a,
+body,
+html .woocommerce div.product form.cart .variations label
+{
+	font-size:15px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+a,
+body,
+html .woocommerce div.product form.cart .variations label
+{
+	font-size:15px;
+}
+}
+
+
+a,
+body,
+html .woocommerce div.product form.cart .variations label
+{
+	font-family:'Lora','Georgia','Serif';
+	font-style:normal;
+	font-weight:400;
+	line-height:1.73334em;
+	letter-spacing:0px;
+}
+
+h1,
+h1 a,
+h1.pb-header span.pb-header-content
+{
+	font-size:48px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+h1,
+h1 a,
+h1.pb-header span.pb-header-content
+{
+	font-size:48px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+h1,
+h1 a,
+h1.pb-header span.pb-header-content
+{
+	font-size:48px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+h1,
+h1 a,
+h1.pb-header span.pb-header-content
+{
+	font-size:28px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+h1,
+h1 a,
+h1.pb-header span.pb-header-content
+{
+	font-size:28px;
+}
+}
+
+
+h1,
+h1 a,
+h1.pb-header span.pb-header-content
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-style:italic;
+	font-weight:400;
+	line-height:1.35715em;
+	letter-spacing:0px;
+}
+
+h2,
+h2 a,
+h2.pb-header span.pb-header-content
+{
+	font-size:28px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+h2,
+h2 a,
+h2.pb-header span.pb-header-content
+{
+	font-size:28px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+h2,
+h2 a,
+h2.pb-header span.pb-header-content
+{
+	font-size:28px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+h2,
+h2 a,
+h2.pb-header span.pb-header-content
+{
+	font-size:24px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+h2,
+h2 a,
+h2.pb-header span.pb-header-content
+{
+	font-size:24px;
+}
+}
+
+
+h2,
+h2 a,
+h2.pb-header span.pb-header-content
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-weight:400;
+	line-height:1.35715em;
+	letter-spacing:0px;
+}
+
+h3,
+h3 a,
+h3.pb-header span.pb-header-content
+{
+	font-size:24px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+h3,
+h3 a,
+h3.pb-header span.pb-header-content
+{
+	font-size:24px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+h3,
+h3 a,
+h3.pb-header span.pb-header-content
+{
+	font-size:24px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+h3,
+h3 a,
+h3.pb-header span.pb-header-content
+{
+	font-size:20px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+h3,
+h3 a,
+h3.pb-header span.pb-header-content
+{
+	font-size:20px;
+}
+}
+
+
+h3,
+h3 a,
+h3.pb-header span.pb-header-content
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-weight:400;
+	line-height:1.41667em;
+	letter-spacing:0px;
+}
+
+h4,
+h4 a,
+h4.pb-header span.pb-header-content
+{
+	font-size:18px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+h4,
+h4 a,
+h4.pb-header span.pb-header-content
+{
+	font-size:18px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+h4,
+h4 a,
+h4.pb-header span.pb-header-content
+{
+	font-size:18px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+h4,
+h4 a,
+h4.pb-header span.pb-header-content
+{
+	font-size:18px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+h4,
+h4 a,
+h4.pb-header span.pb-header-content
+{
+	font-size:18px;
+}
+}
+
+
+h4,
+h4 a,
+h4.pb-header span.pb-header-content
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-weight:400;
+	line-height:1.55556em;
+	letter-spacing:0px;
+}
+
+h5,
+h5 a,
+h5.pb-header span.pb-header-content
+{
+	font-size:17px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+h5,
+h5 a,
+h5.pb-header span.pb-header-content
+{
+	font-size:17px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+h5,
+h5 a,
+h5.pb-header span.pb-header-content
+{
+	font-size:17px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+h5,
+h5 a,
+h5.pb-header span.pb-header-content
+{
+	font-size:17px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+h5,
+h5 a,
+h5.pb-header span.pb-header-content
+{
+	font-size:17px;
+}
+}
+
+
+h5,
+h5 a,
+h5.pb-header span.pb-header-content
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-weight:400;
+	line-height:1.625em;
+	letter-spacing:0px;
+}
+
+h6,
+h6 a,
+h6.pb-header span.pb-header-content
+{
+	font-size:16px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+h6,
+h6 a,
+h6.pb-header span.pb-header-content
+{
+	font-size:16px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+h6,
+h6 a,
+h6.pb-header span.pb-header-content
+{
+	font-size:16px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+h6,
+h6 a,
+h6.pb-header span.pb-header-content
+{
+	font-size:16px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+h6,
+h6 a,
+h6.pb-header span.pb-header-content
+{
+	font-size:16px;
+}
+}
+
+
+h6,
+h6 a,
+h6.pb-header span.pb-header-content
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-weight:400;
+	line-height:1.71429em;
+	letter-spacing:0px;
+}
+
+.theme-content-header h1
+{
+	font-size:28px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-content-header h1
+{
+	font-size:28px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-content-header h1
+{
+	font-size:28px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-content-header h1
+{
+	font-size:24px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-content-header h1
+{
+	font-size:24px;
+}
+}
+
+
+.theme-content-header h1
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-style:italic;
+	font-weight:400;
+	line-height:1.35715em;
+	letter-spacing:0.25px;
+}
+
+.theme-post.theme-post-large .theme-post-title h2,
+.theme-post.theme-post-large .theme-post-title h2 a,
+.theme-post-single .theme-post .theme-post-title h1,
+.theme-post-single .theme-post .theme-post-title h1 a
+{
+	font-size:48px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-post.theme-post-large .theme-post-title h2,
+.theme-post.theme-post-large .theme-post-title h2 a,
+.theme-post-single .theme-post .theme-post-title h1,
+.theme-post-single .theme-post .theme-post-title h1 a
+{
+	font-size:48px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-post.theme-post-large .theme-post-title h2,
+.theme-post.theme-post-large .theme-post-title h2 a,
+.theme-post-single .theme-post .theme-post-title h1,
+.theme-post-single .theme-post .theme-post-title h1 a
+{
+	font-size:48px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-post.theme-post-large .theme-post-title h2,
+.theme-post.theme-post-large .theme-post-title h2 a,
+.theme-post-single .theme-post .theme-post-title h1,
+.theme-post-single .theme-post .theme-post-title h1 a
+{
+	font-size:32px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-post.theme-post-large .theme-post-title h2,
+.theme-post.theme-post-large .theme-post-title h2 a,
+.theme-post-single .theme-post .theme-post-title h1,
+.theme-post-single .theme-post .theme-post-title h1 a
+{
+	font-size:28px;
+}
+}
+
+
+.theme-post.theme-post-large .theme-post-title h2,
+.theme-post.theme-post-large .theme-post-title h2 a,
+.theme-post-single .theme-post .theme-post-title h1,
+.theme-post-single .theme-post .theme-post-title h1 a
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-style:italic;
+	font-weight:400;
+	line-height:1.25em;
+	letter-spacing:0px;
+}
+
+.theme-post.theme-post-small .theme-post-title h2,
+.theme-post.theme-post-small .theme-post-title h2 a
+{
+	font-size:28px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-post.theme-post-small .theme-post-title h2,
+.theme-post.theme-post-small .theme-post-title h2 a
+{
+	font-size:28px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-post.theme-post-small .theme-post-title h2,
+.theme-post.theme-post-small .theme-post-title h2 a
+{
+	font-size:28px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-post.theme-post-small .theme-post-title h2,
+.theme-post.theme-post-small .theme-post-title h2 a
+{
+	font-size:20px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-post.theme-post-small .theme-post-title h2,
+.theme-post.theme-post-small .theme-post-title h2 a
+{
+	font-size:20px;
+}
+}
+
+
+.theme-post.theme-post-small .theme-post-title h2,
+.theme-post.theme-post-small .theme-post-title h2 a
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-style:italic;
+	font-weight:400;
+	line-height:1.35715em;
+	letter-spacing:0.25px;
+}
+
+.theme-post .theme-post-summary>div+span,
+.theme-post .theme-post-author-info>span>a,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author>a
+{
+	font-size:14px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-post .theme-post-summary>div+span,
+.theme-post .theme-post-author-info>span>a,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author>a
+{
+	font-size:14px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-post .theme-post-summary>div+span,
+.theme-post .theme-post-author-info>span>a,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author>a
+{
+	font-size:14px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-post .theme-post-summary>div+span,
+.theme-post .theme-post-author-info>span>a,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author>a
+{
+	font-size:14px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-post .theme-post-summary>div+span,
+.theme-post .theme-post-author-info>span>a,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author>a
+{
+	font-size:14px;
+}
+}
+
+
+.theme-post .theme-post-summary>div+span,
+.theme-post .theme-post-author-info>span>a,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author>a
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.71429em;
+	letter-spacing:0.75px;
+}
+
+.theme-widget>.theme-widget-header,
+.theme-widget>.theme-widget-header a,
+.theme-post .theme-post-related>h4,
+#comments h4,
+#respond #reply-title,
+html .woocommerce div.product h4,
+html .woocommerce div.product h4.pb-header span.pb-header-content
+{
+	font-size:18px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-widget>.theme-widget-header,
+.theme-widget>.theme-widget-header a,
+.theme-post .theme-post-related>h4,
+#comments h4,
+#respond #reply-title,
+html .woocommerce div.product h4,
+html .woocommerce div.product h4.pb-header span.pb-header-content
+{
+	font-size:18px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-widget>.theme-widget-header,
+.theme-widget>.theme-widget-header a,
+.theme-post .theme-post-related>h4,
+#comments h4,
+#respond #reply-title,
+html .woocommerce div.product h4,
+html .woocommerce div.product h4.pb-header span.pb-header-content
+{
+	font-size:18px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-widget>.theme-widget-header,
+.theme-widget>.theme-widget-header a,
+.theme-post .theme-post-related>h4,
+#comments h4,
+#respond #reply-title,
+html .woocommerce div.product h4,
+html .woocommerce div.product h4.pb-header span.pb-header-content
+{
+	font-size:18px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-widget>.theme-widget-header,
+.theme-widget>.theme-widget-header a,
+.theme-post .theme-post-related>h4,
+#comments h4,
+#respond #reply-title,
+html .woocommerce div.product h4,
+html .woocommerce div.product h4.pb-header span.pb-header-content
+{
+	font-size:18px;
+}
+}
+
+
+.theme-widget>.theme-widget-header,
+.theme-widget>.theme-widget-header a,
+.theme-post .theme-post-related>h4,
+#comments h4,
+#respond #reply-title,
+html .woocommerce div.product h4,
+html .woocommerce div.product h4.pb-header span.pb-header-content
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-style:italic;
+	font-weight:400;
+	line-height:1.55556em;
+	letter-spacing:0.25px;
+}
+
+.theme-header-404,
+.pb-header.theme-header-404,
+.pb-header.theme-header-404 span.pb-header-content
+{
+	font-size:144px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-header-404,
+.pb-header.theme-header-404,
+.pb-header.theme-header-404 span.pb-header-content
+{
+	font-size:144px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-header-404,
+.pb-header.theme-header-404,
+.pb-header.theme-header-404 span.pb-header-content
+{
+	font-size:144px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-header-404,
+.pb-header.theme-header-404,
+.pb-header.theme-header-404 span.pb-header-content
+{
+	font-size:144px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-header-404,
+.pb-header.theme-header-404,
+.pb-header.theme-header-404 span.pb-header-content
+{
+	font-size:96px;
+}
+}
+
+
+.theme-header-404,
+.pb-header.theme-header-404,
+.pb-header.theme-header-404 span.pb-header-content
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:300;
+	line-height:1em;
+	letter-spacing:0px;
+}
+
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2>a
+{
+	font-size:42px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2>a
+{
+	font-size:42px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2>a
+{
+	font-size:32px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2>a
+{
+	font-size:24px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2>a
+{
+	font-size:20px;
+}
+}
+
+
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2>a
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-style:italic;
+	font-weight:400;
+	line-height:1.14286em;
+	letter-spacing:0px;
+}
+
+html .woocommerce ul.products li.product h3
+{
+	font-size:24px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+html .woocommerce ul.products li.product h3
+{
+	font-size:24px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+html .woocommerce ul.products li.product h3
+{
+	font-size:24px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+html .woocommerce ul.products li.product h3
+{
+	font-size:20px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+html .woocommerce ul.products li.product h3
+{
+	font-size:20px;
+}
+}
+
+
+html .woocommerce ul.products li.product h3
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-style:italic;
+	font-weight:400;
+	line-height:1.41667em;
+	letter-spacing:0px;
+}
+
+html .woocommerce div.product div.summary .product_title
+{
+	font-size:28px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+html .woocommerce div.product div.summary .product_title
+{
+	font-size:28px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+html .woocommerce div.product div.summary .product_title
+{
+	font-size:28px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+html .woocommerce div.product div.summary .product_title
+{
+	font-size:24px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+html .woocommerce div.product div.summary .product_title
+{
+	font-size:24px;
+}
+}
+
+
+html .woocommerce div.product div.summary .product_title
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-style:italic;
+	font-weight:400;
+	line-height:1.35715em;
+	letter-spacing:0px;
+}
+
+.theme-post .theme-post-category>ul>li>a,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child>a
+{
+	font-size:11px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-post .theme-post-category>ul>li>a,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child>a
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-post .theme-post-category>ul>li>a,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child>a
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-post .theme-post-category>ul>li>a,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child>a
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-post .theme-post-category>ul>li>a,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child>a
+{
+	font-size:11px;
+}
+}
+
+
+.theme-post .theme-post-category>ul>li>a,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child>a
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:700;
+	text-transform:uppercase;
+	line-height:1.81819em;
+	letter-spacing:2px;
+}
+
+.theme-post .theme-post-summary>div
+{
+	font-size:48px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-post .theme-post-summary>div
+{
+	font-size:48px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-post .theme-post-summary>div
+{
+	font-size:48px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-post .theme-post-summary>div
+{
+	font-size:48px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-post .theme-post-summary>div
+{
+	font-size:48px;
+}
+}
+
+
+.theme-post .theme-post-summary>div
+{
+	font-family:'Lora','Georgia','Serif';
+	font-style:normal;
+	font-weight:400;
+	line-height:120px;
+	letter-spacing:0px;
+}
+
+p
+{
+	font-size:15px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+p
+{
+	font-size:15px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+p
+{
+	font-size:15px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+p
+{
+	font-size:15px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+p
+{
+	font-size:15px;
+}
+}
+
+
+p
+{
+	font-family:'Lora','Georgia','Serif';
+	font-style:normal;
+	font-weight:400;
+	line-height:1.73334em;
+	letter-spacing:0px;
+}
+
+body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p a,
+.widget_theme_widget_post_recent>ul>li>a,
+.widget_theme_widget_post_most_comment>ul>li>a,
+.widget_theme_widget_post_most_like>ul>li>a,
+.widget_text>.textwidget,
+.widget_text>.textwidget>p,
+.widget_recent_entries>ul>li,
+.widget_recent_entries>ul>li a,
+.widget_recent_comments>ul>li,
+.widget_recent_comments>ul>li a,
+.widget_rss>ul>li>a,
+#comments #comments_list>ul>li .theme-comment-content>p,
+#comments #comments_list>ul>li .theme-comment-content .theme-comment-content-read-less-link,
+#comments #comments_list>ul>li .theme-comment-content .theme-comment-content-read-more-link,
+.theme-post .theme-post-related a.theme-post-related-title,
+.theme-paragraph-small,
+.theme-paragraph-small a,
+.theme-revolution-slider-2>a,
+html .woocommerce.widget_products>ul>li>a,
+html .woocommerce.widget_shopping_cart .widget_shopping_cart_content>ul>li>a+a,
+html .woocommerce.widget_recently_viewed_products>ul>li>a,
+html .woocommerce.widget_recent_reviews>ul>li>a,
+html .woocommerce.widget_top_rated_products>ul>li>a,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>div.description>p
+{
+	font-size:14px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p a,
+.widget_theme_widget_post_recent>ul>li>a,
+.widget_theme_widget_post_most_comment>ul>li>a,
+.widget_theme_widget_post_most_like>ul>li>a,
+.widget_text>.textwidget,
+.widget_text>.textwidget>p,
+.widget_recent_entries>ul>li,
+.widget_recent_entries>ul>li a,
+.widget_recent_comments>ul>li,
+.widget_recent_comments>ul>li a,
+.widget_rss>ul>li>a,
+#comments #comments_list>ul>li .theme-comment-content>p,
+#comments #comments_list>ul>li .theme-comment-content .theme-comment-content-read-less-link,
+#comments #comments_list>ul>li .theme-comment-content .theme-comment-content-read-more-link,
+.theme-post .theme-post-related a.theme-post-related-title,
+.theme-paragraph-small,
+.theme-paragraph-small a,
+.theme-revolution-slider-2>a,
+html .woocommerce.widget_products>ul>li>a,
+html .woocommerce.widget_shopping_cart .widget_shopping_cart_content>ul>li>a+a,
+html .woocommerce.widget_recently_viewed_products>ul>li>a,
+html .woocommerce.widget_recent_reviews>ul>li>a,
+html .woocommerce.widget_top_rated_products>ul>li>a,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>div.description>p
+{
+	font-size:14px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p a,
+.widget_theme_widget_post_recent>ul>li>a,
+.widget_theme_widget_post_most_comment>ul>li>a,
+.widget_theme_widget_post_most_like>ul>li>a,
+.widget_text>.textwidget,
+.widget_text>.textwidget>p,
+.widget_recent_entries>ul>li,
+.widget_recent_entries>ul>li a,
+.widget_recent_comments>ul>li,
+.widget_recent_comments>ul>li a,
+.widget_rss>ul>li>a,
+#comments #comments_list>ul>li .theme-comment-content>p,
+#comments #comments_list>ul>li .theme-comment-content .theme-comment-content-read-less-link,
+#comments #comments_list>ul>li .theme-comment-content .theme-comment-content-read-more-link,
+.theme-post .theme-post-related a.theme-post-related-title,
+.theme-paragraph-small,
+.theme-paragraph-small a,
+.theme-revolution-slider-2>a,
+html .woocommerce.widget_products>ul>li>a,
+html .woocommerce.widget_shopping_cart .widget_shopping_cart_content>ul>li>a+a,
+html .woocommerce.widget_recently_viewed_products>ul>li>a,
+html .woocommerce.widget_recent_reviews>ul>li>a,
+html .woocommerce.widget_top_rated_products>ul>li>a,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>div.description>p
+{
+	font-size:14px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p a,
+.widget_theme_widget_post_recent>ul>li>a,
+.widget_theme_widget_post_most_comment>ul>li>a,
+.widget_theme_widget_post_most_like>ul>li>a,
+.widget_text>.textwidget,
+.widget_text>.textwidget>p,
+.widget_recent_entries>ul>li,
+.widget_recent_entries>ul>li a,
+.widget_recent_comments>ul>li,
+.widget_recent_comments>ul>li a,
+.widget_rss>ul>li>a,
+#comments #comments_list>ul>li .theme-comment-content>p,
+#comments #comments_list>ul>li .theme-comment-content .theme-comment-content-read-less-link,
+#comments #comments_list>ul>li .theme-comment-content .theme-comment-content-read-more-link,
+.theme-post .theme-post-related a.theme-post-related-title,
+.theme-paragraph-small,
+.theme-paragraph-small a,
+.theme-revolution-slider-2>a,
+html .woocommerce.widget_products>ul>li>a,
+html .woocommerce.widget_shopping_cart .widget_shopping_cart_content>ul>li>a+a,
+html .woocommerce.widget_recently_viewed_products>ul>li>a,
+html .woocommerce.widget_recent_reviews>ul>li>a,
+html .woocommerce.widget_top_rated_products>ul>li>a,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>div.description>p
+{
+	font-size:14px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p a,
+.widget_theme_widget_post_recent>ul>li>a,
+.widget_theme_widget_post_most_comment>ul>li>a,
+.widget_theme_widget_post_most_like>ul>li>a,
+.widget_text>.textwidget,
+.widget_text>.textwidget>p,
+.widget_recent_entries>ul>li,
+.widget_recent_entries>ul>li a,
+.widget_recent_comments>ul>li,
+.widget_recent_comments>ul>li a,
+.widget_rss>ul>li>a,
+#comments #comments_list>ul>li .theme-comment-content>p,
+#comments #comments_list>ul>li .theme-comment-content .theme-comment-content-read-less-link,
+#comments #comments_list>ul>li .theme-comment-content .theme-comment-content-read-more-link,
+.theme-post .theme-post-related a.theme-post-related-title,
+.theme-paragraph-small,
+.theme-paragraph-small a,
+.theme-revolution-slider-2>a,
+html .woocommerce.widget_products>ul>li>a,
+html .woocommerce.widget_shopping_cart .widget_shopping_cart_content>ul>li>a+a,
+html .woocommerce.widget_recently_viewed_products>ul>li>a,
+html .woocommerce.widget_recent_reviews>ul>li>a,
+html .woocommerce.widget_top_rated_products>ul>li>a,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>div.description>p
+{
+	font-size:14px;
+}
+}
+
+
+body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
+body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p a,
+body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p a,
+.widget_theme_widget_post_recent>ul>li>a,
+.widget_theme_widget_post_most_comment>ul>li>a,
+.widget_theme_widget_post_most_like>ul>li>a,
+.widget_text>.textwidget,
+.widget_text>.textwidget>p,
+.widget_recent_entries>ul>li,
+.widget_recent_entries>ul>li a,
+.widget_recent_comments>ul>li,
+.widget_recent_comments>ul>li a,
+.widget_rss>ul>li>a,
+#comments #comments_list>ul>li .theme-comment-content>p,
+#comments #comments_list>ul>li .theme-comment-content .theme-comment-content-read-less-link,
+#comments #comments_list>ul>li .theme-comment-content .theme-comment-content-read-more-link,
+.theme-post .theme-post-related a.theme-post-related-title,
+.theme-paragraph-small,
+.theme-paragraph-small a,
+.theme-revolution-slider-2>a,
+html .woocommerce.widget_products>ul>li>a,
+html .woocommerce.widget_shopping_cart .widget_shopping_cart_content>ul>li>a+a,
+html .woocommerce.widget_recently_viewed_products>ul>li>a,
+html .woocommerce.widget_recent_reviews>ul>li>a,
+html .woocommerce.widget_top_rated_products>ul>li>a,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>div.description>p
+{
+	font-family:'Lora','Georgia','Serif';
+	font-style:normal;
+	font-weight:400;
+	line-height:1.714229em;
+	letter-spacing:0px;
+}
+
+p.pb-dropcap>span.pb-dropcap-first-letter,
+.theme-post .theme-post-content>p:first-child:first-letter,
+.theme-post .theme-post-excerpt.theme-post-excerpt-dropcap>p:first-child:first-letter
+{
+	font-size:52px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+p.pb-dropcap>span.pb-dropcap-first-letter,
+.theme-post .theme-post-content>p:first-child:first-letter,
+.theme-post .theme-post-excerpt.theme-post-excerpt-dropcap>p:first-child:first-letter
+{
+	font-size:52px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+p.pb-dropcap>span.pb-dropcap-first-letter,
+.theme-post .theme-post-content>p:first-child:first-letter,
+.theme-post .theme-post-excerpt.theme-post-excerpt-dropcap>p:first-child:first-letter
+{
+	font-size:52px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+p.pb-dropcap>span.pb-dropcap-first-letter,
+.theme-post .theme-post-content>p:first-child:first-letter,
+.theme-post .theme-post-excerpt.theme-post-excerpt-dropcap>p:first-child:first-letter
+{
+	font-size:52px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+p.pb-dropcap>span.pb-dropcap-first-letter,
+.theme-post .theme-post-content>p:first-child:first-letter,
+.theme-post .theme-post-excerpt.theme-post-excerpt-dropcap>p:first-child:first-letter
+{
+	font-size:52px;
+}
+}
+
+
+p.pb-dropcap>span.pb-dropcap-first-letter,
+.theme-post .theme-post-content>p:first-child:first-letter,
+.theme-post .theme-post-excerpt.theme-post-excerpt-dropcap>p:first-child:first-letter
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:300;
+	line-height:1em;
+	letter-spacing:0px;
+}
+
+button,
+input[type="submit"],
+input[type="button"],
+.theme-button-1,
+.pb-button-style-1 a,
+.theme-footer .theme-footer-menu-1 li a,
+html .woocommerce a.button,
+html .woocommerce input.button,
+html .woocommerce button.button,
+html .woocommerce #respond input#submit,
+html #add_payment_method table.cart input[type="submit"],
+html .woocommerce-cart table.cart input[type="submit"],
+html .woocommerce-checkout table.cart input[type="submit"],
+html .pb-tab.ui-tabs>.ui-tabs-nav .ui-state-default,
+html .pb-tab.ui-tabs>.ui-tabs-nav .ui-state-default a,
+html .woocommerce .widget_price_filter .price_slider_amount .button
+{
+	font-size:12px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+button,
+input[type="submit"],
+input[type="button"],
+.theme-button-1,
+.pb-button-style-1 a,
+.theme-footer .theme-footer-menu-1 li a,
+html .woocommerce a.button,
+html .woocommerce input.button,
+html .woocommerce button.button,
+html .woocommerce #respond input#submit,
+html #add_payment_method table.cart input[type="submit"],
+html .woocommerce-cart table.cart input[type="submit"],
+html .woocommerce-checkout table.cart input[type="submit"],
+html .pb-tab.ui-tabs>.ui-tabs-nav .ui-state-default,
+html .pb-tab.ui-tabs>.ui-tabs-nav .ui-state-default a,
+html .woocommerce .widget_price_filter .price_slider_amount .button
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+button,
+input[type="submit"],
+input[type="button"],
+.theme-button-1,
+.pb-button-style-1 a,
+.theme-footer .theme-footer-menu-1 li a,
+html .woocommerce a.button,
+html .woocommerce input.button,
+html .woocommerce button.button,
+html .woocommerce #respond input#submit,
+html #add_payment_method table.cart input[type="submit"],
+html .woocommerce-cart table.cart input[type="submit"],
+html .woocommerce-checkout table.cart input[type="submit"],
+html .pb-tab.ui-tabs>.ui-tabs-nav .ui-state-default,
+html .pb-tab.ui-tabs>.ui-tabs-nav .ui-state-default a,
+html .woocommerce .widget_price_filter .price_slider_amount .button
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+button,
+input[type="submit"],
+input[type="button"],
+.theme-button-1,
+.pb-button-style-1 a,
+.theme-footer .theme-footer-menu-1 li a,
+html .woocommerce a.button,
+html .woocommerce input.button,
+html .woocommerce button.button,
+html .woocommerce #respond input#submit,
+html #add_payment_method table.cart input[type="submit"],
+html .woocommerce-cart table.cart input[type="submit"],
+html .woocommerce-checkout table.cart input[type="submit"],
+html .pb-tab.ui-tabs>.ui-tabs-nav .ui-state-default,
+html .pb-tab.ui-tabs>.ui-tabs-nav .ui-state-default a,
+html .woocommerce .widget_price_filter .price_slider_amount .button
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+button,
+input[type="submit"],
+input[type="button"],
+.theme-button-1,
+.pb-button-style-1 a,
+.theme-footer .theme-footer-menu-1 li a,
+html .woocommerce a.button,
+html .woocommerce input.button,
+html .woocommerce button.button,
+html .woocommerce #respond input#submit,
+html #add_payment_method table.cart input[type="submit"],
+html .woocommerce-cart table.cart input[type="submit"],
+html .woocommerce-checkout table.cart input[type="submit"],
+html .pb-tab.ui-tabs>.ui-tabs-nav .ui-state-default,
+html .pb-tab.ui-tabs>.ui-tabs-nav .ui-state-default a,
+html .woocommerce .widget_price_filter .price_slider_amount .button
+{
+	font-size:12px;
+}
+}
+
+
+button,
+input[type="submit"],
+input[type="button"],
+.theme-button-1,
+.pb-button-style-1 a,
+.theme-footer .theme-footer-menu-1 li a,
+html .woocommerce a.button,
+html .woocommerce input.button,
+html .woocommerce button.button,
+html .woocommerce #respond input#submit,
+html #add_payment_method table.cart input[type="submit"],
+html .woocommerce-cart table.cart input[type="submit"],
+html .woocommerce-checkout table.cart input[type="submit"],
+html .pb-tab.ui-tabs>.ui-tabs-nav .ui-state-default,
+html .pb-tab.ui-tabs>.ui-tabs-nav .ui-state-default a,
+html .woocommerce .widget_price_filter .price_slider_amount .button
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.75em;
+	letter-spacing:1.5px;
+}
+
+.theme-button-2,
+.pb-button-style-2 a,
+html .woocommerce a.added_to_cart,
+html .woocommerce .quantity .plus,
+html .woocommerce .quantity .minus,
+html .woocommerce div.quantity .input-text
+{
+	font-size:12px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-button-2,
+.pb-button-style-2 a,
+html .woocommerce a.added_to_cart,
+html .woocommerce .quantity .plus,
+html .woocommerce .quantity .minus,
+html .woocommerce div.quantity .input-text
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-button-2,
+.pb-button-style-2 a,
+html .woocommerce a.added_to_cart,
+html .woocommerce .quantity .plus,
+html .woocommerce .quantity .minus,
+html .woocommerce div.quantity .input-text
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-button-2,
+.pb-button-style-2 a,
+html .woocommerce a.added_to_cart,
+html .woocommerce .quantity .plus,
+html .woocommerce .quantity .minus,
+html .woocommerce div.quantity .input-text
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-button-2,
+.pb-button-style-2 a,
+html .woocommerce a.added_to_cart,
+html .woocommerce .quantity .plus,
+html .woocommerce .quantity .minus,
+html .woocommerce div.quantity .input-text
+{
+	font-size:12px;
+}
+}
+
+
+.theme-button-2,
+.pb-button-style-2 a,
+html .woocommerce a.added_to_cart,
+html .woocommerce .quantity .plus,
+html .woocommerce .quantity .minus,
+html .woocommerce div.quantity .input-text
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.75em;
+	letter-spacing:1.5px;
+}
+
+.theme-button-3
+{
+	font-size:12px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-button-3
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-button-3
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-button-3
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-button-3
+{
+	font-size:12px;
+}
+}
+
+
+.theme-button-3
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.75em;
+	letter-spacing:1.5px;
+}
+
+.theme-pagination>a,
+.theme-pagination>span,
+html .woocommerce nav.woocommerce-pagination ul.page-numbers li>a,
+html .woocommerce nav.woocommerce-pagination ul.page-numbers li>span,
+html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>a,
+html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>span
+{
+	font-size:12px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-pagination>a,
+.theme-pagination>span,
+html .woocommerce nav.woocommerce-pagination ul.page-numbers li>a,
+html .woocommerce nav.woocommerce-pagination ul.page-numbers li>span,
+html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>a,
+html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>span
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-pagination>a,
+.theme-pagination>span,
+html .woocommerce nav.woocommerce-pagination ul.page-numbers li>a,
+html .woocommerce nav.woocommerce-pagination ul.page-numbers li>span,
+html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>a,
+html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>span
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-pagination>a,
+.theme-pagination>span,
+html .woocommerce nav.woocommerce-pagination ul.page-numbers li>a,
+html .woocommerce nav.woocommerce-pagination ul.page-numbers li>span,
+html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>a,
+html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>span
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-pagination>a,
+.theme-pagination>span,
+html .woocommerce nav.woocommerce-pagination ul.page-numbers li>a,
+html .woocommerce nav.woocommerce-pagination ul.page-numbers li>span,
+html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>a,
+html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>span
+{
+	font-size:12px;
+}
+}
+
+
+.theme-pagination>a,
+.theme-pagination>span,
+html .woocommerce nav.woocommerce-pagination ul.page-numbers li>a,
+html .woocommerce nav.woocommerce-pagination ul.page-numbers li>span,
+html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>a,
+html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>span
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.75em;
+	letter-spacing:1.5px;
+}
+
+.theme-post .theme-post-summary>div+span+p+span
+{
+	font-size:11px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-post .theme-post-summary>div+span+p+span
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-post .theme-post-summary>div+span+p+span
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-post .theme-post-summary>div+span+p+span
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-post .theme-post-summary>div+span+p+span
+{
+	font-size:11px;
+}
+}
+
+
+.theme-post .theme-post-summary>div+span+p+span
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.81819em;
+	letter-spacing:1px;
+}
+
+.widget_tag_cloud>.tagcloud>a,
+.theme-post .theme-post-tag>ul>li>a,
+html .woocommerce.widget_product_tag_cloud>.tagcloud>a
+{
+	font-size:11px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.widget_tag_cloud>.tagcloud>a,
+.theme-post .theme-post-tag>ul>li>a,
+html .woocommerce.widget_product_tag_cloud>.tagcloud>a
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.widget_tag_cloud>.tagcloud>a,
+.theme-post .theme-post-tag>ul>li>a,
+html .woocommerce.widget_product_tag_cloud>.tagcloud>a
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.widget_tag_cloud>.tagcloud>a,
+.theme-post .theme-post-tag>ul>li>a,
+html .woocommerce.widget_product_tag_cloud>.tagcloud>a
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.widget_tag_cloud>.tagcloud>a,
+.theme-post .theme-post-tag>ul>li>a,
+html .woocommerce.widget_product_tag_cloud>.tagcloud>a
+{
+	font-size:11px;
+}
+}
+
+
+.widget_tag_cloud>.tagcloud>a,
+.theme-post .theme-post-tag>ul>li>a,
+html .woocommerce.widget_product_tag_cloud>.tagcloud>a
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	line-height:1.8em;
+	letter-spacing:0.5px;
+}
+
+.theme-post .theme-post-bar>.theme-post-bar-comment>span>a,
+.theme-post .theme-post-bar>.theme-post-bar-like>span>a,
+.theme-post .theme-post-navigation>a
+{
+	font-size:12px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-post .theme-post-bar>.theme-post-bar-comment>span>a,
+.theme-post .theme-post-bar>.theme-post-bar-like>span>a,
+.theme-post .theme-post-navigation>a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-post .theme-post-bar>.theme-post-bar-comment>span>a,
+.theme-post .theme-post-bar>.theme-post-bar-like>span>a,
+.theme-post .theme-post-navigation>a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-post .theme-post-bar>.theme-post-bar-comment>span>a,
+.theme-post .theme-post-bar>.theme-post-bar-like>span>a,
+.theme-post .theme-post-navigation>a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-post .theme-post-bar>.theme-post-bar-comment>span>a,
+.theme-post .theme-post-bar>.theme-post-bar-like>span>a,
+.theme-post .theme-post-navigation>a
+{
+	font-size:12px;
+}
+}
+
+
+.theme-post .theme-post-bar>.theme-post-bar-comment>span>a,
+.theme-post .theme-post-bar>.theme-post-bar-like>span>a,
+.theme-post .theme-post-navigation>a
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.75em;
+	letter-spacing:1.5px;
+}
+
+.widget_meta>ul>li,
+.widget_meta>ul>li a,
+.widget_pages>ul>li,
+.widget_pages>ul>li a,
+.widget_archive>ul>li,
+.widget_archive>ul>li a,
+.widget_categories>ul>li,
+.widget_categories>ul>li a,
+.widget_nav_menu ul li,
+.widget_nav_menu ul li a,
+.widget_calendar table,
+.widget_calendar table a,
+html .woocommerce.widget_product_categories>ul>li,
+html .woocommerce.widget_product_categories>ul>li a,
+html .woocommerce.widget_rating_filter>ul>li>a>span+span,
+html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li,
+html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li a
+{
+	font-size:12px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.widget_meta>ul>li,
+.widget_meta>ul>li a,
+.widget_pages>ul>li,
+.widget_pages>ul>li a,
+.widget_archive>ul>li,
+.widget_archive>ul>li a,
+.widget_categories>ul>li,
+.widget_categories>ul>li a,
+.widget_nav_menu ul li,
+.widget_nav_menu ul li a,
+.widget_calendar table,
+.widget_calendar table a,
+html .woocommerce.widget_product_categories>ul>li,
+html .woocommerce.widget_product_categories>ul>li a,
+html .woocommerce.widget_rating_filter>ul>li>a>span+span,
+html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li,
+html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.widget_meta>ul>li,
+.widget_meta>ul>li a,
+.widget_pages>ul>li,
+.widget_pages>ul>li a,
+.widget_archive>ul>li,
+.widget_archive>ul>li a,
+.widget_categories>ul>li,
+.widget_categories>ul>li a,
+.widget_nav_menu ul li,
+.widget_nav_menu ul li a,
+.widget_calendar table,
+.widget_calendar table a,
+html .woocommerce.widget_product_categories>ul>li,
+html .woocommerce.widget_product_categories>ul>li a,
+html .woocommerce.widget_rating_filter>ul>li>a>span+span,
+html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li,
+html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.widget_meta>ul>li,
+.widget_meta>ul>li a,
+.widget_pages>ul>li,
+.widget_pages>ul>li a,
+.widget_archive>ul>li,
+.widget_archive>ul>li a,
+.widget_categories>ul>li,
+.widget_categories>ul>li a,
+.widget_nav_menu ul li,
+.widget_nav_menu ul li a,
+.widget_calendar table,
+.widget_calendar table a,
+html .woocommerce.widget_product_categories>ul>li,
+html .woocommerce.widget_product_categories>ul>li a,
+html .woocommerce.widget_rating_filter>ul>li>a>span+span,
+html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li,
+html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.widget_meta>ul>li,
+.widget_meta>ul>li a,
+.widget_pages>ul>li,
+.widget_pages>ul>li a,
+.widget_archive>ul>li,
+.widget_archive>ul>li a,
+.widget_categories>ul>li,
+.widget_categories>ul>li a,
+.widget_nav_menu ul li,
+.widget_nav_menu ul li a,
+.widget_calendar table,
+.widget_calendar table a,
+html .woocommerce.widget_product_categories>ul>li,
+html .woocommerce.widget_product_categories>ul>li a,
+html .woocommerce.widget_rating_filter>ul>li>a>span+span,
+html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li,
+html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li a
+{
+	font-size:12px;
+}
+}
+
+
+.widget_meta>ul>li,
+.widget_meta>ul>li a,
+.widget_pages>ul>li,
+.widget_pages>ul>li a,
+.widget_archive>ul>li,
+.widget_archive>ul>li a,
+.widget_categories>ul>li,
+.widget_categories>ul>li a,
+.widget_nav_menu ul li,
+.widget_nav_menu ul li a,
+.widget_calendar table,
+.widget_calendar table a,
+html .woocommerce.widget_product_categories>ul>li,
+html .woocommerce.widget_product_categories>ul>li a,
+html .woocommerce.widget_rating_filter>ul>li>a>span+span,
+html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li,
+html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li a
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.5em;
+	letter-spacing:1px;
+}
+
+.widget_theme_widget_post_recent>ul>li>span,
+.widget_theme_widget_post_most_comment>ul>li>span,
+.widget_theme_widget_post_most_like>ul>li>span,
+.widget_recent_entries>ul>li>span,
+.widget_recent_comments>ul>li>span,
+.widget_recent_comments>ul>li>span>a,
+.widget_rss>ul>li>span.rss-date,
+.widget_rss>ul>li>cite,
+#comments #comments_list>ul>li .theme-comment-meta>.theme-comment-meta-date,
+.pb-sitemap>ul>li>.pb-sitemap-date,
+.theme-post .theme-post-related span.theme-post-related-date,
+html .woocommerce.widget_shopping_cart .widget_shopping_cart_content>ul>li .quantity,
+html .woocommerce.widget_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_recently_viewed_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_top_rated_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_recent_reviews>ul>li>.reviewer,
+html .woocommerce ul.products li.product .price,
+html .woocommerce ul.products li.product .price ins,
+html .woocommerce ul.products li.product .price del,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>p.meta>time
+{
+	font-size:11px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.widget_theme_widget_post_recent>ul>li>span,
+.widget_theme_widget_post_most_comment>ul>li>span,
+.widget_theme_widget_post_most_like>ul>li>span,
+.widget_recent_entries>ul>li>span,
+.widget_recent_comments>ul>li>span,
+.widget_recent_comments>ul>li>span>a,
+.widget_rss>ul>li>span.rss-date,
+.widget_rss>ul>li>cite,
+#comments #comments_list>ul>li .theme-comment-meta>.theme-comment-meta-date,
+.pb-sitemap>ul>li>.pb-sitemap-date,
+.theme-post .theme-post-related span.theme-post-related-date,
+html .woocommerce.widget_shopping_cart .widget_shopping_cart_content>ul>li .quantity,
+html .woocommerce.widget_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_recently_viewed_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_top_rated_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_recent_reviews>ul>li>.reviewer,
+html .woocommerce ul.products li.product .price,
+html .woocommerce ul.products li.product .price ins,
+html .woocommerce ul.products li.product .price del,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>p.meta>time
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.widget_theme_widget_post_recent>ul>li>span,
+.widget_theme_widget_post_most_comment>ul>li>span,
+.widget_theme_widget_post_most_like>ul>li>span,
+.widget_recent_entries>ul>li>span,
+.widget_recent_comments>ul>li>span,
+.widget_recent_comments>ul>li>span>a,
+.widget_rss>ul>li>span.rss-date,
+.widget_rss>ul>li>cite,
+#comments #comments_list>ul>li .theme-comment-meta>.theme-comment-meta-date,
+.pb-sitemap>ul>li>.pb-sitemap-date,
+.theme-post .theme-post-related span.theme-post-related-date,
+html .woocommerce.widget_shopping_cart .widget_shopping_cart_content>ul>li .quantity,
+html .woocommerce.widget_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_recently_viewed_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_top_rated_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_recent_reviews>ul>li>.reviewer,
+html .woocommerce ul.products li.product .price,
+html .woocommerce ul.products li.product .price ins,
+html .woocommerce ul.products li.product .price del,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>p.meta>time
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.widget_theme_widget_post_recent>ul>li>span,
+.widget_theme_widget_post_most_comment>ul>li>span,
+.widget_theme_widget_post_most_like>ul>li>span,
+.widget_recent_entries>ul>li>span,
+.widget_recent_comments>ul>li>span,
+.widget_recent_comments>ul>li>span>a,
+.widget_rss>ul>li>span.rss-date,
+.widget_rss>ul>li>cite,
+#comments #comments_list>ul>li .theme-comment-meta>.theme-comment-meta-date,
+.pb-sitemap>ul>li>.pb-sitemap-date,
+.theme-post .theme-post-related span.theme-post-related-date,
+html .woocommerce.widget_shopping_cart .widget_shopping_cart_content>ul>li .quantity,
+html .woocommerce.widget_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_recently_viewed_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_top_rated_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_recent_reviews>ul>li>.reviewer,
+html .woocommerce ul.products li.product .price,
+html .woocommerce ul.products li.product .price ins,
+html .woocommerce ul.products li.product .price del,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>p.meta>time
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.widget_theme_widget_post_recent>ul>li>span,
+.widget_theme_widget_post_most_comment>ul>li>span,
+.widget_theme_widget_post_most_like>ul>li>span,
+.widget_recent_entries>ul>li>span,
+.widget_recent_comments>ul>li>span,
+.widget_recent_comments>ul>li>span>a,
+.widget_rss>ul>li>span.rss-date,
+.widget_rss>ul>li>cite,
+#comments #comments_list>ul>li .theme-comment-meta>.theme-comment-meta-date,
+.pb-sitemap>ul>li>.pb-sitemap-date,
+.theme-post .theme-post-related span.theme-post-related-date,
+html .woocommerce.widget_shopping_cart .widget_shopping_cart_content>ul>li .quantity,
+html .woocommerce.widget_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_recently_viewed_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_top_rated_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_recent_reviews>ul>li>.reviewer,
+html .woocommerce ul.products li.product .price,
+html .woocommerce ul.products li.product .price ins,
+html .woocommerce ul.products li.product .price del,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>p.meta>time
+{
+	font-size:11px;
+}
+}
+
+
+.widget_theme_widget_post_recent>ul>li>span,
+.widget_theme_widget_post_most_comment>ul>li>span,
+.widget_theme_widget_post_most_like>ul>li>span,
+.widget_recent_entries>ul>li>span,
+.widget_recent_comments>ul>li>span,
+.widget_recent_comments>ul>li>span>a,
+.widget_rss>ul>li>span.rss-date,
+.widget_rss>ul>li>cite,
+#comments #comments_list>ul>li .theme-comment-meta>.theme-comment-meta-date,
+.pb-sitemap>ul>li>.pb-sitemap-date,
+.theme-post .theme-post-related span.theme-post-related-date,
+html .woocommerce.widget_shopping_cart .widget_shopping_cart_content>ul>li .quantity,
+html .woocommerce.widget_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_recently_viewed_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_top_rated_products>ul>li .woocommerce-Price-amount,
+html .woocommerce.widget_recent_reviews>ul>li>.reviewer,
+html .woocommerce ul.products li.product .price,
+html .woocommerce ul.products li.product .price ins,
+html .woocommerce ul.products li.product .price del,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>p.meta>time
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.81819em;
+	letter-spacing:0.75px;
+}
+
+.widget_rss>ul>li>div.rssSummary
+{
+	font-size:13px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.widget_rss>ul>li>div.rssSummary
+{
+	font-size:13px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.widget_rss>ul>li>div.rssSummary
+{
+	font-size:13px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.widget_rss>ul>li>div.rssSummary
+{
+	font-size:13px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.widget_rss>ul>li>div.rssSummary
+{
+	font-size:13px;
+}
+}
+
+
+.widget_rss>ul>li>div.rssSummary
+{
+	font-family:'Lora','Georgia','Serif';
+	font-style:normal;
+	font-weight:400;
+	line-height:1.73334em;
+	letter-spacing:0px;
+}
+
+.theme-footer .theme-footer-menu-2,
+.theme-footer .theme-footer-menu-2 a,
+.theme-footer .theme-footer-bottom,
+.theme-footer .theme-footer-bottom a
+{
+	font-size:12px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-footer .theme-footer-menu-2,
+.theme-footer .theme-footer-menu-2 a,
+.theme-footer .theme-footer-bottom,
+.theme-footer .theme-footer-bottom a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-footer .theme-footer-menu-2,
+.theme-footer .theme-footer-menu-2 a,
+.theme-footer .theme-footer-bottom,
+.theme-footer .theme-footer-bottom a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-footer .theme-footer-menu-2,
+.theme-footer .theme-footer-menu-2 a,
+.theme-footer .theme-footer-bottom,
+.theme-footer .theme-footer-bottom a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-footer .theme-footer-menu-2,
+.theme-footer .theme-footer-menu-2 a,
+.theme-footer .theme-footer-bottom,
+.theme-footer .theme-footer-bottom a
+{
+	font-size:12px;
+}
+}
+
+
+.theme-footer .theme-footer-menu-2,
+.theme-footer .theme-footer-menu-2 a,
+.theme-footer .theme-footer-bottom,
+.theme-footer .theme-footer-bottom a
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.75em;
+	letter-spacing:1px;
+}
+
+.theme-post .theme-post-author-date>a>span,
+.theme-footer .theme-footer-bottom em,
+.theme-footer .theme-footer-menu-1 li a>em,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>div>span,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>span,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>a>span
+{
+	font-size:12px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-post .theme-post-author-date>a>span,
+.theme-footer .theme-footer-bottom em,
+.theme-footer .theme-footer-menu-1 li a>em,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>div>span,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>span,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>a>span
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-post .theme-post-author-date>a>span,
+.theme-footer .theme-footer-bottom em,
+.theme-footer .theme-footer-menu-1 li a>em,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>div>span,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>span,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>a>span
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-post .theme-post-author-date>a>span,
+.theme-footer .theme-footer-bottom em,
+.theme-footer .theme-footer-menu-1 li a>em,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>div>span,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>span,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>a>span
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-post .theme-post-author-date>a>span,
+.theme-footer .theme-footer-bottom em,
+.theme-footer .theme-footer-menu-1 li a>em,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>div>span,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>span,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>a>span
+{
+	font-size:12px;
+}
+}
+
+
+.theme-post .theme-post-author-date>a>span,
+.theme-footer .theme-footer-bottom em,
+.theme-footer .theme-footer-menu-1 li a>em,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>div>span,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>span,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>a>span
+{
+	font-family:'Lora','Georgia','Serif';
+	font-style:italic;
+	font-weight:400;
+	text-transform:none;
+}
+
+.theme-post .theme-post-author-date,
+.theme-post .theme-post-author-date a,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>div,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>a,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>p.meta>strong
+{
+	font-size:12px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-post .theme-post-author-date,
+.theme-post .theme-post-author-date a,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>div,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>a,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>p.meta>strong
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-post .theme-post-author-date,
+.theme-post .theme-post-author-date a,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>div,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>a,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>p.meta>strong
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-post .theme-post-author-date,
+.theme-post .theme-post-author-date a,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>div,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>a,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>p.meta>strong
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-post .theme-post-author-date,
+.theme-post .theme-post-author-date a,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>div,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>a,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>p.meta>strong
+{
+	font-size:12px;
+}
+}
+
+
+.theme-post .theme-post-author-date,
+.theme-post .theme-post-author-date a,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>div,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to,
+#comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-reply-to>a,
+html .woocommerce div.product .pb-tab>.ui-tabs-panel>#reviews>#comments .commentlist>li>div>div>p.meta>strong
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.75em;
+	letter-spacing:1px;
+}
+
+.theme-woocommerce-icon>span
+{
+	font-size:10px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-woocommerce-icon>span
+{
+	font-size:10px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-woocommerce-icon>span
+{
+	font-size:10px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-woocommerce-icon>span
+{
+	font-size:10px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-woocommerce-icon>span
+{
+	font-size:10px;
+}
+}
+
+
+.theme-woocommerce-icon>span
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	line-height:15px;
+	letter-spacing:0px;
+}
+
+html .woocommerce div.product p.price,
+html .woocommerce div.product span.price,
+html .woocommerce div.product p.price ins,
+html .woocommerce div.product span.price ins
+{
+	font-size:18px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+html .woocommerce div.product p.price,
+html .woocommerce div.product span.price,
+html .woocommerce div.product p.price ins,
+html .woocommerce div.product span.price ins
+{
+	font-size:18px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+html .woocommerce div.product p.price,
+html .woocommerce div.product span.price,
+html .woocommerce div.product p.price ins,
+html .woocommerce div.product span.price ins
+{
+	font-size:18px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+html .woocommerce div.product p.price,
+html .woocommerce div.product span.price,
+html .woocommerce div.product p.price ins,
+html .woocommerce div.product span.price ins
+{
+	font-size:18px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+html .woocommerce div.product p.price,
+html .woocommerce div.product span.price,
+html .woocommerce div.product p.price ins,
+html .woocommerce div.product span.price ins
+{
+	font-size:18px;
+}
+}
+
+
+html .woocommerce div.product p.price,
+html .woocommerce div.product span.price,
+html .woocommerce div.product p.price ins,
+html .woocommerce div.product span.price ins
+{
+	font-family:'Lora','Georgia','Serif';
+	font-style:normal;
+	font-weight:400;
+	line-height:1em;
+	letter-spacing:0px;
+}
+
+input,
+select,
+textarea,
+.theme-infield-label,
+.dk_container .dk_toggle .dk_label,
+.dk_container .dk_options .dk_options_inner li a,
+html #add_payment_method table.cart td.actions .coupon .input-text,
+html .woocommerce-cart table.cart td.actions .coupon .input-text,
+html .woocommerce-checkout table.cart td.actions .coupon .input-text
+{
+	font-size:14px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+input,
+select,
+textarea,
+.theme-infield-label,
+.dk_container .dk_toggle .dk_label,
+.dk_container .dk_options .dk_options_inner li a,
+html #add_payment_method table.cart td.actions .coupon .input-text,
+html .woocommerce-cart table.cart td.actions .coupon .input-text,
+html .woocommerce-checkout table.cart td.actions .coupon .input-text
+{
+	font-size:14px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+input,
+select,
+textarea,
+.theme-infield-label,
+.dk_container .dk_toggle .dk_label,
+.dk_container .dk_options .dk_options_inner li a,
+html #add_payment_method table.cart td.actions .coupon .input-text,
+html .woocommerce-cart table.cart td.actions .coupon .input-text,
+html .woocommerce-checkout table.cart td.actions .coupon .input-text
+{
+	font-size:14px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+input,
+select,
+textarea,
+.theme-infield-label,
+.dk_container .dk_toggle .dk_label,
+.dk_container .dk_options .dk_options_inner li a,
+html #add_payment_method table.cart td.actions .coupon .input-text,
+html .woocommerce-cart table.cart td.actions .coupon .input-text,
+html .woocommerce-checkout table.cart td.actions .coupon .input-text
+{
+	font-size:14px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+input,
+select,
+textarea,
+.theme-infield-label,
+.dk_container .dk_toggle .dk_label,
+.dk_container .dk_options .dk_options_inner li a,
+html #add_payment_method table.cart td.actions .coupon .input-text,
+html .woocommerce-cart table.cart td.actions .coupon .input-text,
+html .woocommerce-checkout table.cart td.actions .coupon .input-text
+{
+	font-size:14px;
+}
+}
+
+
+input,
+select,
+textarea,
+.theme-infield-label,
+.dk_container .dk_toggle .dk_label,
+.dk_container .dk_options .dk_options_inner li a,
+html #add_payment_method table.cart td.actions .coupon .input-text,
+html .woocommerce-cart table.cart td.actions .coupon .input-text,
+html .woocommerce-checkout table.cart td.actions .coupon .input-text
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	line-height:1.71429em;
+	letter-spacing:0.25px;
+}
+
+label.theme-infield-label,
+.pb-contact-form>div>ul>li label.pb-infield-label,
+html .woocommerce form .form-row label,
+html .woocommerce-page form .form-row label,
+html .woocommerce #commentform p label
+{
+	font-size:12px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+label.theme-infield-label,
+.pb-contact-form>div>ul>li label.pb-infield-label,
+html .woocommerce form .form-row label,
+html .woocommerce-page form .form-row label,
+html .woocommerce #commentform p label
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+label.theme-infield-label,
+.pb-contact-form>div>ul>li label.pb-infield-label,
+html .woocommerce form .form-row label,
+html .woocommerce-page form .form-row label,
+html .woocommerce #commentform p label
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+label.theme-infield-label,
+.pb-contact-form>div>ul>li label.pb-infield-label,
+html .woocommerce form .form-row label,
+html .woocommerce-page form .form-row label,
+html .woocommerce #commentform p label
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+label.theme-infield-label,
+.pb-contact-form>div>ul>li label.pb-infield-label,
+html .woocommerce form .form-row label,
+html .woocommerce-page form .form-row label,
+html .woocommerce #commentform p label
+{
+	font-size:12px;
+}
+}
+
+
+label.theme-infield-label,
+.pb-contact-form>div>ul>li label.pb-infield-label,
+html .woocommerce form .form-row label,
+html .woocommerce-page form .form-row label,
+html .woocommerce #commentform p label
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.75em;
+	letter-spacing:0.75px;
+}
+
+.widget_search #searchform>div>label,
+.widget_mc4wp_form_widget label,
+.theme-header .theme-header-top-bar-search>form>div>label,
+.theme-post-password-form>div>label
+{
+	font-size:12px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.widget_search #searchform>div>label,
+.widget_mc4wp_form_widget label,
+.theme-header .theme-header-top-bar-search>form>div>label,
+.theme-post-password-form>div>label
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.widget_search #searchform>div>label,
+.widget_mc4wp_form_widget label,
+.theme-header .theme-header-top-bar-search>form>div>label,
+.theme-post-password-form>div>label
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.widget_search #searchform>div>label,
+.widget_mc4wp_form_widget label,
+.theme-header .theme-header-top-bar-search>form>div>label,
+.theme-post-password-form>div>label
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.widget_search #searchform>div>label,
+.widget_mc4wp_form_widget label,
+.theme-header .theme-header-top-bar-search>form>div>label,
+.theme-post-password-form>div>label
+{
+	font-size:12px;
+}
+}
+
+
+.widget_search #searchform>div>label,
+.widget_mc4wp_form_widget label,
+.theme-header .theme-header-top-bar-search>form>div>label,
+.theme-post-password-form>div>label
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:none;
+	line-height:1.75em;
+	letter-spacing:0.5px;
+}
+
+.qtip.pb-qtip.pb-qtip-error,
+.qtip.pb-qtip.pb-qtip-success
+{
+	font-size:13px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.qtip.pb-qtip.pb-qtip-error,
+.qtip.pb-qtip.pb-qtip-success
+{
+	font-size:13px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.qtip.pb-qtip.pb-qtip-error,
+.qtip.pb-qtip.pb-qtip-success
+{
+	font-size:13px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.qtip.pb-qtip.pb-qtip-error,
+.qtip.pb-qtip.pb-qtip-success
+{
+	font-size:13px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.qtip.pb-qtip.pb-qtip-error,
+.qtip.pb-qtip.pb-qtip-success
+{
+	font-size:13px;
+}
+}
+
+
+.qtip.pb-qtip.pb-qtip-error,
+.qtip.pb-qtip.pb-qtip-success
+{
+	font-family:'Lora','Georgia','Serif';
+	font-style:normal;
+	font-weight:400;
+	line-height:1.73334em;
+	letter-spacing:0px;
+}
+
+.theme-header-menu .theme-header-menu-default>.sf-menu>li>a,
+.theme-header-menu .theme-header-menu-responsive>ul>li>a
+{
+	font-size:14px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-header-menu .theme-header-menu-default>.sf-menu>li>a,
+.theme-header-menu .theme-header-menu-responsive>ul>li>a
+{
+	font-size:14px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-header-menu .theme-header-menu-default>.sf-menu>li>a,
+.theme-header-menu .theme-header-menu-responsive>ul>li>a
+{
+	font-size:14px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-header-menu .theme-header-menu-default>.sf-menu>li>a,
+.theme-header-menu .theme-header-menu-responsive>ul>li>a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-header-menu .theme-header-menu-default>.sf-menu>li>a,
+.theme-header-menu .theme-header-menu-responsive>ul>li>a
+{
+	font-size:12px;
+}
+}
+
+
+.theme-header-menu .theme-header-menu-default>.sf-menu>li>a,
+.theme-header-menu .theme-header-menu-responsive>ul>li>a
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:24px;
+	letter-spacing:1px;
+}
+
+.theme-header-menu .theme-header-menu-default>.sf-menu li>ul li a,
+.theme-header-menu .theme-header-menu-responsive>ul>li ul li a
+{
+	font-size:12px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.theme-header-menu .theme-header-menu-default>.sf-menu li>ul li a,
+.theme-header-menu .theme-header-menu-responsive>ul>li ul li a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.theme-header-menu .theme-header-menu-default>.sf-menu li>ul li a,
+.theme-header-menu .theme-header-menu-responsive>ul>li ul li a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.theme-header-menu .theme-header-menu-default>.sf-menu li>ul li a,
+.theme-header-menu .theme-header-menu-responsive>ul>li ul li a
+{
+	font-size:12px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.theme-header-menu .theme-header-menu-default>.sf-menu li>ul li a,
+.theme-header-menu .theme-header-menu-responsive>ul>li ul li a
+{
+	font-size:12px;
+}
+}
+
+
+.theme-header-menu .theme-header-menu-default>.sf-menu li>ul li a,
+.theme-header-menu .theme-header-menu-responsive>ul>li ul li a
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:20px;
+	letter-spacing:1px;
+}
+
+blockquote,
+blockquote p,
+.wp-block-quote.is-large p,
+.wp-block-quote.is-style-large p,
+.pb-blockquote .pb-blockquote-line-top::after
+{
+	font-size:21px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+blockquote,
+blockquote p,
+.wp-block-quote.is-large p,
+.wp-block-quote.is-style-large p,
+.pb-blockquote .pb-blockquote-line-top::after
+{
+	font-size:21px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+blockquote,
+blockquote p,
+.wp-block-quote.is-large p,
+.wp-block-quote.is-style-large p,
+.pb-blockquote .pb-blockquote-line-top::after
+{
+	font-size:21px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+blockquote,
+blockquote p,
+.wp-block-quote.is-large p,
+.wp-block-quote.is-style-large p,
+.pb-blockquote .pb-blockquote-line-top::after
+{
+	font-size:20px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+blockquote,
+blockquote p,
+.wp-block-quote.is-large p,
+.wp-block-quote.is-style-large p,
+.pb-blockquote .pb-blockquote-line-top::after
+{
+	font-size:20px;
+}
+}
+
+
+blockquote,
+blockquote p,
+.wp-block-quote.is-large p,
+.wp-block-quote.is-style-large p,
+.pb-blockquote .pb-blockquote-line-top::after
+{
+	font-family:'Playfair Display','Times New Roman','Serif';
+	font-style:italic;
+	font-weight:400;
+	line-height:1.75em;
+	letter-spacing:0px;
+}
+
+.pb-blockquote .pb-blockquote-author,
+.page-gutenberg-block .wp-block-quote cite,
+.page-gutenberg-block .wp-block-pullquote__citation,
+.page-gutenberg-block .wp-block-pullquote cite,
+.page-gutenberg-block .wp-block-pullquote footer
+{
+	font-size:11px;
+}
+@media only screen  and (min-width:960px) and (max-width:1079px)
+{
+
+.pb-blockquote .pb-blockquote-author,
+.page-gutenberg-block .wp-block-quote cite,
+.page-gutenberg-block .wp-block-pullquote__citation,
+.page-gutenberg-block .wp-block-pullquote cite,
+.page-gutenberg-block .wp-block-pullquote footer
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:768px) and (max-width:959px)
+{
+
+.pb-blockquote .pb-blockquote-author,
+.page-gutenberg-block .wp-block-quote cite,
+.page-gutenberg-block .wp-block-pullquote__citation,
+.page-gutenberg-block .wp-block-pullquote cite,
+.page-gutenberg-block .wp-block-pullquote footer
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:480px) and (max-width:767px)
+{
+
+.pb-blockquote .pb-blockquote-author,
+.page-gutenberg-block .wp-block-quote cite,
+.page-gutenberg-block .wp-block-pullquote__citation,
+.page-gutenberg-block .wp-block-pullquote cite,
+.page-gutenberg-block .wp-block-pullquote footer
+{
+	font-size:11px;
+}
+}
+
+@media only screen  and (min-width:0px) and (max-width:479px)
+{
+
+.pb-blockquote .pb-blockquote-author,
+.page-gutenberg-block .wp-block-quote cite,
+.page-gutenberg-block .wp-block-pullquote__citation,
+.page-gutenberg-block .wp-block-pullquote cite,
+.page-gutenberg-block .wp-block-pullquote footer
+{
+	font-size:11px;
+}
+}
+
+
+.pb-blockquote .pb-blockquote-author,
+.page-gutenberg-block .wp-block-quote cite,
+.page-gutenberg-block .wp-block-pullquote__citation,
+.page-gutenberg-block .wp-block-pullquote cite,
+.page-gutenberg-block .wp-block-pullquote footer
+{
+	font-family:'Lato','Arial','Sans-Serif';
+	font-style:normal;
+	font-weight:400;
+	text-transform:uppercase;
+	line-height:1.81819em;
+	letter-spacing:1px;
+}

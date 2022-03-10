@@ -1,0 +1,317 @@
+/******************************************************************************/
+/* Default																	  */
+/******************************************************************************/
+
+h1,h2,h3,h4,h5,h6
+{
+	margin-bottom:23px;
+}
+
+/******************************************************************************/
+/* Button																	  */
+/******************************************************************************/
+
+.theme-button-1,
+.theme-button-2,
+.theme-button-3,
+.pb-button-style-1,
+.pb-button-style-2,
+.pb-contact-form-field input[type="submit"],
+.comment-form input[type="submit"]
+{
+	-webkit-border-radius:999px;
+	-moz-border-radius:999px;
+	border-radius:999px;
+}
+
+.theme-button-1,
+.pb-button-style-1>a
+{
+	padding:13px 31px 14px 32px;
+}
+
+.theme-button-2,
+.pb-button-style-2>a
+{
+	padding:4px 14px 5px 14px;
+}
+
+.theme-button-3
+{
+	padding:14px 32px 15px 33px;
+}
+
+/******************************************************************************/
+/* Form							                                              */
+/******************************************************************************/
+	
+input,
+select,
+textarea,
+#add_payment_method table.cart td.actions .coupon .input-text, 
+.woocommerce-cart table.cart td.actions .coupon .input-text, 
+.woocommerce-checkout table.cart td.actions .coupon .input-text
+{
+	padding:13px 15px 13px 15px;
+}
+
+/******************************************************************************/
+/* Content 						                                              */
+/******************************************************************************/
+
+.theme-content .theme-content-header h1
+{
+	padding:19px 10px 23px 10px;
+}
+
+/******************************************************************************/
+/* Header																	  */
+/******************************************************************************/
+
+	/**************************************************************************/
+	/* Header / Top bar			                                              */
+	/**************************************************************************/
+	
+		/**********************************************************************/
+		/* Header / Top bar / Search bar		                              */
+		/**********************************************************************/
+	
+					.theme-header .theme-header-top-bar-search>form>div::after
+					{
+						top:13px;
+					}
+
+	/**************************************************************************/
+	/* Header / Revolution Slider                                             */
+	/**************************************************************************/
+	
+	.tp-rightarrow::before,
+	.tp-rightarrow:hover::before
+	{
+		border-top:none;
+		border-right:none;
+	}
+	
+	.tp-leftarrow::before,
+	.tp-leftarrow:hover::before
+	{
+		border-top:none;
+		border-left:none;		
+	}
+	
+	.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child,
+	.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div
+	{
+		border:none !important;
+	}
+
+	.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div
+	{
+		background:rgba(0,0,0,0.6);
+	}
+
+	.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2>a
+	{
+		width:420px !important;
+		padding:0px 25px 0px 25px !important;
+		white-space:normal !important;
+		text-overflow:unset !important;
+	}
+
+	.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>a
+	{
+		margin-top:34px !important;
+	}
+
+	.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child
+	{
+		padding:48px 25px 15px 25px !important;
+	}
+
+	.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div
+	{
+		padding:24px 25px 44px 25px !important;
+	}
+
+/******************************************************************************/
+/* Respond / Comment form													  */
+/* Component / Contact form													  */
+/******************************************************************************/
+
+.comment-form input[type="submit"],
+.pb-contact-form-field input[type="submit"]
+{
+	padding:12px 30px 13px 31px;
+}
+
+/******************************************************************************/
+/* Widget																	  */
+/******************************************************************************/
+
+.theme-widget
+{
+	padding:0px 0 15px 0px;
+}
+
+	/**************************************************************************/
+	/* Widget / Header														  */
+	/**************************************************************************/
+
+	.theme-widget>.theme-widget-header
+	{
+		padding:14px 0px 14px 0px;
+	}
+
+	.theme-widget>.theme-widget-header::after
+	{
+		display:none;
+	}
+
+/******************************************************************************/
+/* Post 						                                              */
+/******************************************************************************/
+
+	/**************************************************************************/
+	/* Post / Category			                                              */
+	/**************************************************************************/	
+
+	.theme-post .theme-post-category
+	{
+		margin-bottom:18px;
+	}
+	
+/******************************************************************************/
+/* Responsive					                                              */
+/******************************************************************************/	
+	
+@media only screen and (min-width:960px) and (max-width:1099px)
+{
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child
+	{
+		padding:54px 25px 14px 25px !important;
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div
+	{
+		padding:24px 25px 44px 25px !important;
+	}
+}
+
+@media only screen and (min-width:768px) and (max-width:959px)
+{
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child
+	{
+		padding:39px 25px 10px 25px !important
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div
+	{
+		padding:17px 25px 35px 25px !important
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>a
+	{
+		margin-top:24px !important;
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child,
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div
+	{
+		width:420px !important;
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2>a
+	{
+		width:420px !important;
+	}
+}
+	
+@media only screen and (min-width:480px) and (max-width:767px)
+{
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child
+	{
+		padding:19px 20px 4px 20px !important
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div
+	{
+		padding:10px 20px 20px 20px !important
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>a
+	{
+		margin-top:17px !important;
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child,
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div
+	{
+		width:460px !important;
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2>a
+	{
+		width:460px !important;
+		padding:0px 20px 0px 20px !important;
+	}
+}
+
+@media only screen and (min-width:0px) and (max-width:479px)
+{
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child
+	{
+		padding:14px 15px 0px 15px !important
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div
+	{
+		padding:6px 15px 14px 15px !important
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div>a
+	{
+		display:none !important;
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child,
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div+div
+	{
+		width:300px !important;
+	}
+		
+	body.theme-responsive-mode-enable .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child+div>h2>a
+	{
+		width:300px !important;
+		padding:0px 15px 0px 15px !important;
+	}
+}
+
+/******************************************************************************/
+/* RTL																		  */
+/******************************************************************************/
+
+/******************************************************************************/
+/* Button																	  */
+/******************************************************************************/
+
+body.rtl .theme-button-1,
+body.rtl .pb-button-style-1>a
+{
+	padding:13px 32px 14px 31px;
+}
+
+body.rtl .theme-button-3
+{
+	padding:14px 33px 15px 32px;
+}
+
+/******************************************************************************/
+/* Respond / Comment form													  */
+/* Component / Contact form													  */
+/******************************************************************************/
+
+body.rtl .comment-form input[type="submit"],
+body.rtl .pb-contact-form-field input[type="submit"]
+{
+	padding:12px 31px 13px 30px;
+}
