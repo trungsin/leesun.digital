@@ -603,7 +603,7 @@ h6.pb-header span.pb-header-content
 	font-family:'Catamaran','Arial','Sans-Serif';
 	font-style:normal;
 	font-weight:800;
-	text-transform:uppercase;
+	/*text-transform:uppercase;*/
 	line-height:32px;
 	letter-spacing:3px;
 }
