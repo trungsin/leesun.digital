@@ -1015,7 +1015,7 @@ html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>span.curren
 
 .theme-post .theme-post-tag>ul>li>a
 {
-	color:#222222;
+	color:#9BE9ED;
 }
 
 .theme-post .theme-post-tag>ul>li>a:hover
@@ -1025,7 +1025,7 @@ html .woocommerce-page nav.woocommerce-pagination ul.page-numbers li>span.curren
 
 .theme-post .theme-post-tag>ul>li>a
 {
-	background-color:#E9E9E9;
+	background-color:#FFFFFF;
 }
 
 .theme-post .theme-post-tag>ul>li>a:hover
@@ -1930,7 +1930,7 @@ html .woocommerce table.shop_table th td,html .woocommerce-cart .cart-collateral
 
 .widget_tag_cloud>.tagcloud>a
 {
-	color:#222222;
+	color:#9BE9ED;
 }
 
 .widget_tag_cloud>.tagcloud>a
@@ -1940,7 +1940,7 @@ html .woocommerce table.shop_table th td,html .woocommerce-cart .cart-collateral
 
 .widget_tag_cloud>.tagcloud>a:hover
 {
-	color:#FFFFFF;
+	color:#9BE9ED;
 }
 
 .widget_tag_cloud>.tagcloud>a:hover
