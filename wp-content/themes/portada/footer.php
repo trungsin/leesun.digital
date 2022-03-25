@@ -136,9 +136,13 @@
 								<div class="divTableBody">
 								<div class="divTableRow">
 								<div class="divTableCellLeft"><img src="https://leesun.digital/wp-content/uploads/2022/03/cropped-cropped-MicrosoftTeams-image-8-1-1.png" alt="Portada – Elegant WordPress Blogging Theme">
-								<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading Time: </span> <span class="rt-time">7</span> <span class="rt-label rt-postfix">minutes</span></span> How to give the most thoughtful sympathy gifts for loss of mother? The key to choosing the best meaningful sympathy gift is simple. Just something to show your condolence and your deep care for this person.&nbsp; That’s it. When one loses their Mom, it quite seems like they literally…</p>
+								<p> How to give the most thoughtful sympathy gifts for loss of mother? The key to choosing the best meaningful sympathy gift is simple. Just something to show your condolence and your deep care for this person.&nbsp; That’s it. When one loses their Mom, it quite seems like they literally…</p>
 								</div>
-								<div class="divTableCellRight">&nbsp;</div>
+								<div class="divTableCellRight">
+									<h5>QUICK LINKS</h5>
+									<?php echo do_shortcode('[listmenu menu="Footer Menu"]'); ?>
+
+								</div>
 								</div>
 								</div>
 								</div>
