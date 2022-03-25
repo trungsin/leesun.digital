@@ -90,7 +90,9 @@
 					<div class="theme-main theme-footer-menu-2 theme-clear-fix">
 						<?php echo wp_nav_menu($menuAttribute); ?>
 					</div>
+					<div class="theme-main theme-clear-fix theme-page-sidebar-enable theme-page-sidebar-right">
 							<div class="theme-column-left">ss</div><div class="theme-column-right">ssd</div>
+					</div>
 
 <?php
 			}
