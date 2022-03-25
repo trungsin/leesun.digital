@@ -90,10 +90,11 @@
 					<div class="theme-main theme-footer-menu-2 theme-clear-fix">
 						<?php echo wp_nav_menu($menuAttribute); ?>
 					</div>
+							<div class="theme-column-left">ss</div><div class="theme-column-right">ssd</div>
+
 <?php
 			}
 		}
-		<div class="theme-column-left">ss</div><div class="theme-column-right">ssd</div>
 		/***/
 		
 		if(in_array(Portada_ThemeOption::getGlobalOption($portadaParentPost->post,'footer_bottom_enable'),array(null,1)))
