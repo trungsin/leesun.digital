@@ -110,8 +110,8 @@
 						echo $Post->createPostDivider($post);
 
 						echo $Post->createPostImage($post,'blog',$widgetAreaData['location']);
-
-						echo $Post->createPostExcerpt($post);
+						echo $Post->createPostTag($post);
+						echo $Post->createPostExcerpt($post,false);
 
 								echo $Post->createPostTag($post);
 
@@ -123,7 +123,7 @@
 					else
 					{
 						echo $Post->createPostImage($post,'blog',$widgetAreaData['location']);
-
+						echo $Post->createPostTag($post);
 						echo $Post->createPostCategory($post);
 
 
@@ -132,7 +132,7 @@
 						echo $Post->createPostAuthorDate($post);
 
 						echo $Post->createPostExcerpt($post,false);
-						echo $Post->createPostTag($post);
+						//echo $Post->createPostTag($post);
 
 						echo $Post->createPostShare($post);	
 					}
