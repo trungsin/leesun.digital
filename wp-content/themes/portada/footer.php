@@ -91,7 +91,9 @@
 						<?php echo wp_nav_menu($menuAttribute); ?>
 					</div>
 					<div class="theme-main theme-clear-fix theme-page-sidebar-enable theme-page-sidebar-right">
-							<div class="theme-column-left">ss</div><div class="theme-column-right">ssd</div>
+							<div class="theme-column-left">ss</div><div class="theme-column-right"><?php echo do_shortcode('[listmenu menu="Social Menu"]'); ?>
+
+</div>
 					</div>
 
 <?php
