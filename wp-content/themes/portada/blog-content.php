@@ -69,7 +69,7 @@
 				
 				echo $Post->createPostImage($post,'blog',$widgetAreaData['location']);
 				
-				echo $Post->createPostExcerpt($post);
+				echo $Post->createPostExcerpt($post,false);
 				
 				echo $Post->createPostReadMoreButton($post);
 				
