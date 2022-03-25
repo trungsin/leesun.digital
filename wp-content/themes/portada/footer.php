@@ -104,13 +104,13 @@
 								display: table-header-group;
 							}
 							.divTableCellLeft, .divTableHead {
-								border: 1px solid #999999;
+								border: 0px solid #999999;
 								display: table-cell;
 								padding: 3px 10px;
 								width: 60%;
 							}
 							.divTableCellRight {
-								border: 1px solid #999999;
+								border: 0px solid #999999;
 								display: table-cell;
 								padding: 3px 10px;
 								width: 40%;
