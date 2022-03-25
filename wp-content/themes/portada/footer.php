@@ -103,10 +103,17 @@
 								background-color: #EEE;
 								display: table-header-group;
 							}
-							.divTableCell, .divTableHead {
+							.divTableCellLeft, .divTableHead {
 								border: 1px solid #999999;
 								display: table-cell;
 								padding: 3px 10px;
+								width: 60%;
+							}
+							.divTableCellRight {
+								border: 1px solid #999999;
+								display: table-cell;
+								padding: 3px 10px;
+								width: 40%;
 							}
 							.divTableHeading {
 								background-color: #EEE;
@@ -128,8 +135,8 @@
 								<div class="divTable">
 								<div class="divTableBody">
 								<div class="divTableRow">
-								<div class="divTableCell">&nbsp;</div>
-								<div class="divTableCell">&nbsp;</div>
+								<div class="divTableCellLeft">&nbsp;</div>
+								<div class="divTableCellRight">&nbsp;</div>
 								</div>
 								</div>
 								</div>
