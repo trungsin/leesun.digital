@@ -90,9 +90,53 @@
 					<div class="theme-main theme-footer-menu-2 theme-clear-fix">
 						<?php echo wp_nav_menu($menuAttribute); ?>
 					</div>
+					<style type="text/css">
+						/* DivTable.com */
+							.divTable{
+								display: table;
+								width: 100%;
+							}
+							.divTableRow {
+								display: table-row;
+							}
+							.divTableHeading {
+								background-color: #EEE;
+								display: table-header-group;
+							}
+							.divTableCell, .divTableHead {
+								border: 1px solid #999999;
+								display: table-cell;
+								padding: 3px 10px;
+							}
+							.divTableHeading {
+								background-color: #EEE;
+								display: table-header-group;
+								font-weight: bold;
+							}
+							.divTableFoot {
+								background-color: #EEE;
+								display: table-footer-group;
+								font-weight: bold;
+							}
+							.divTableBody {
+								display: table-row-group;
+							}
+					</style>
 					<div class="theme-main theme-clear-fix theme-page-sidebar-enable theme-page-sidebar-right">
-							<div class="theme-column-left">ss</div>
+							<div class="theme-column-left">
+								
+								<div class="divTable">
+								<div class="divTableBody">
+								<div class="divTableRow">
+								<div class="divTableCell">&nbsp;</div>
+								<div class="divTableCell">&nbsp;</div>
+								</div>
+								</div>
+								</div>
+								<!-- DivTable.com -->
+							</div>
 							<div class="theme-column-right">
+								<h5> FOLLOW US </h5>
 								<div class="theme-header-top-bar-social-icon">
 								<?php
 												$SocialProfile=new Portada_ThemeSocialProfile();
