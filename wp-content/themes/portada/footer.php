@@ -90,7 +90,13 @@
 					<div class="theme-main theme-footer-menu-2 theme-clear-fix">
 						<?php echo wp_nav_menu($menuAttribute); ?>
 					</div>
-					<style type="text/css">
+
+
+<?php
+			}
+		}
+?> <!-- footer custome -->
+<style type="text/css">
 						/* DivTable.com */
 							.divTable{
 								display: table;
@@ -160,10 +166,7 @@
 								</div>
 							</div>
 					</div>
-
 <?php
-			}
-		}
 		/***/
 		
 		if(in_array(Portada_ThemeOption::getGlobalOption($portadaParentPost->post,'footer_bottom_enable'),array(null,1)))
