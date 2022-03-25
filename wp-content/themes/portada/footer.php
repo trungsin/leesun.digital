@@ -114,6 +114,8 @@
 								display: table-cell;
 								padding: 3px 10px;
 								width: 40%;
+								    vertical-align: top;
+
 							}
 							.divTableHeading {
 								background-color: #EEE;
