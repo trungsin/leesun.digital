@@ -93,7 +93,7 @@
 <?php
 			}
 		}
-		
+		<div class="theme-column-left">ss</div><div class="theme-column-right">ssd</div>
 		/***/
 		
 		if(in_array(Portada_ThemeOption::getGlobalOption($portadaParentPost->post,'footer_bottom_enable'),array(null,1)))
