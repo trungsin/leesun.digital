@@ -36,7 +36,7 @@ h1.pb-header span.pb-header-content{font-size:30px}}@media only screen  and (min
 h1 a,
 h1.pb-header span.pb-header-content{font-size:30px}}h1,
 h1 a,
-h1.pb-header span.pb-header-content{font-family:'Catamaran','Arial','Sans-Serif';font-weight:800;text-transform:uppercase;line-height:42px;letter-spacing:5px}h2,
+h1.pb-header span.pb-header-content{font-family:'Catamaran','Arial','Sans-Serif';font-weight:800;text-transform:none;line-height:42px;letter-spacing:5px}h2,
 h2 a,
 h2.pb-header span.pb-header-content{font-size:21px}@media only screen  and (min-width:960px) and (max-width:1079px){h2,
 h2 a,
@@ -48,7 +48,7 @@ h2.pb-header span.pb-header-content{font-size:21px}}@media only screen  and (min
 h2 a,
 h2.pb-header span.pb-header-content{font-size:21px}}h2,
 h2 a,
-h2.pb-header span.pb-header-content{font-family:'Catamaran','Arial','Sans-Serif';font-weight:800;text-transform:uppercase;line-height:32px;letter-spacing:3px}h3,
+h2.pb-header span.pb-header-content{font-family:'Catamaran','Arial','Sans-Serif';font-weight:800;line-height:32px;letter-spacing:3px}h3,
 h3 a,
 h3.pb-header span.pb-header-content{font-size:18px}@media only screen  and (min-width:960px) and (max-width:1079px){h3,
 h3 a,
@@ -102,7 +102,7 @@ h1{font-size:21px}}@media only screen  and (min-width:768px) and (max-width:959p
 h1{font-size:21px}}@media only screen  and (min-width:480px) and (max-width:767px){.theme-content-header
 h1{font-size:21px}}@media only screen  and (min-width:0px) and (max-width:479px){.theme-content-header
 h1{font-size:21px}}.theme-content-header
-h1{font-family:'Catamaran','Arial','Sans-Serif';font-weight:800;text-transform:uppercase;line-height:32px;letter-spacing:3px}.theme-post.theme-post-large .theme-post-title h2,
+h1{font-family:'Catamaran','Arial','Sans-Serif';font-weight:800;text-transform:none;line-height:32px;letter-spacing:3px}.theme-post.theme-post-large .theme-post-title h2,
 .theme-post.theme-post-large .theme-post-title h2 a,
 .theme-post-single .theme-post .theme-post-title h1,
 .theme-post-single .theme-post .theme-post-title h1
@@ -126,7 +126,7 @@ a{font-size:30px}}.theme-post.theme-post-large .theme-post-title h2,
 .theme-post.theme-post-large .theme-post-title h2 a,
 .theme-post-single .theme-post .theme-post-title h1,
 .theme-post-single .theme-post .theme-post-title h1
-a{font-family:'Catamaran','Arial','Sans-Serif';font-style:normal;font-weight:800;text-transform:uppercase;line-height:42px;letter-spacing:5px}.theme-post.theme-post-small .theme-post-title h2,
+a{font-family:'Catamaran','Arial','Sans-Serif';font-style:normal;font-weight:800;line-height:42px;letter-spacing:5px}.theme-post.theme-post-small .theme-post-title h2,
 .theme-post.theme-post-small .theme-post-title h2
 a{font-size:21px}@media only screen  and (min-width:960px) and (max-width:1079px){.theme-post.theme-post-small .theme-post-title h2,
 .theme-post.theme-post-small .theme-post-title h2
@@ -138,7 +138,7 @@ a{font-size:18px}}@media only screen  and (min-width:0px) and (max-width:479px){
 .theme-post.theme-post-small .theme-post-title h2
 a{font-size:18px}}.theme-post.theme-post-small .theme-post-title h2,
 .theme-post.theme-post-small .theme-post-title h2
-a{font-family:'Catamaran','Arial','Sans-Serif';font-style:normal;font-weight:800;text-transform:uppercase;line-height:32px;letter-spacing:3px}.theme-post .theme-post-summary>div+span,
+a{font-family:'Catamaran','Arial','Sans-Serif';font-style:normal;font-weight:800;line-height:32px;letter-spacing:3px}.theme-post .theme-post-summary>div+span,
 .theme-post .theme-post-author-info>span>a,
 #comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author,
 #comments #comments_list>ul>li .theme-comment-meta h6.theme-comment-meta-author>a{font-size:14px}@media only screen  and (min-width:960px) and (max-width:1079px){.theme-post .theme-post-summary>div+span,
@@ -234,7 +234,7 @@ h3{font-family:'Catamaran','Arial','Sans-Serif';font-style:normal;font-weight:80
 .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child,
 .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child>a{font-size:12px}}.theme-post .theme-post-category>ul>li>a,
 .theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child,
-.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child>a{font-family:'Source Code Pro','Arial','Sans-Serif';font-style:normal;font-weight:400;text-transform:uppercase;line-height:1em;letter-spacing:1px}.theme-post .theme-post-summary>div{font-size:30px}@media only screen  and (min-width:960px) and (max-width:1079px){.theme-post .theme-post-summary>div{font-size:30px}}@media only screen  and (min-width:768px) and (max-width:959px){.theme-post .theme-post-summary>div{font-size:30px}}@media only screen  and (min-width:480px) and (max-width:767px){.theme-post .theme-post-summary>div{font-size:30px}}@media only screen  and (min-width:0px) and (max-width:479px){.theme-post .theme-post-summary>div{font-size:30px}}.theme-post .theme-post-summary>div{font-family:'Catamaran','Arial','Sans-Serif';font-style:normal;font-weight:800;text-transform:none;line-height:118px;letter-spacing:1px}p{font-size:14px}@media only screen  and (min-width:960px) and (max-width:1079px){p{font-size:14px}}@media only screen  and (min-width:768px) and (max-width:959px){p{font-size:14px}}@media only screen  and (min-width:480px) and (max-width:767px){p{font-size:14px}}@media only screen  and (min-width:0px) and (max-width:479px){p{font-size:14px}}p{font-family:'Noto Sans','Arial','Sans-Serif';font-style:normal;font-weight:400;text-transform:none;line-height:26px;letter-spacing:0px}body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p,
+.theme-header .theme-header-revolution-slider .theme-header-revolution-slider-box>div>div:first-child>a{font-family:'Source Code Pro','Arial','Sans-Serif';font-style:normal;font-weight:400;line-height:1em;letter-spacing:1px}.theme-post .theme-post-summary>div{font-size:30px}@media only screen  and (min-width:960px) and (max-width:1079px){.theme-post .theme-post-summary>div{font-size:30px}}@media only screen  and (min-width:768px) and (max-width:959px){.theme-post .theme-post-summary>div{font-size:30px}}@media only screen  and (min-width:480px) and (max-width:767px){.theme-post .theme-post-summary>div{font-size:30px}}@media only screen  and (min-width:0px) and (max-width:479px){.theme-post .theme-post-summary>div{font-size:30px}}.theme-post .theme-post-summary>div{font-family:'Catamaran','Arial','Sans-Serif';font-style:normal;font-weight:800;text-transform:none;line-height:118px;letter-spacing:1px}p{font-size:14px}@media only screen  and (min-width:960px) and (max-width:1079px){p{font-size:14px}}@media only screen  and (min-width:768px) and (max-width:959px){p{font-size:14px}}@media only screen  and (min-width:480px) and (max-width:767px){p{font-size:14px}}@media only screen  and (min-width:0px) and (max-width:479px){p{font-size:14px}}p{font-family:'Noto Sans','Arial','Sans-Serif';font-style:normal;font-weight:400;text-transform:none;line-height:26px;letter-spacing:0px}body.page-template.page-template-blog-grid .theme-blog>ul>li>div.theme-post-excerpt>p,
 body.page-template.page-template-blog-list .theme-blog>ul>li>div.theme-post-excerpt>p,
 body.page-template.page-template-blog-grid-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
 body.page-template.page-template-blog-list-leading-post .theme-blog>ul>li.theme-post-small>div.theme-post-excerpt>p,
@@ -708,7 +708,7 @@ html .woocommerce.widget_product_categories>ul>li a,
 html .woocommerce.widget_rating_filter>ul>li>a>span+span,
 html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li,
 html .woocommerce-page.woocommerce-account .woocommerce-MyAccount-navigation ul li
-a{font-family:'Source Code Pro','Arial','Sans-Serif';font-style:normal;font-weight:400;text-transform:uppercase;line-height:21px;letter-spacing:1px}.widget_theme_widget_post_recent>ul>li>span,
+a{font-family:'Source Code Pro','Arial','Sans-Serif';font-style:normal;font-weight:400;line-height:21px;letter-spacing:1px}.widget_theme_widget_post_recent>ul>li>span,
 .widget_theme_widget_post_most_comment>ul>li>span,
 .widget_theme_widget_post_most_like>ul>li>span,
 .widget_recent_entries>ul>li>span,
