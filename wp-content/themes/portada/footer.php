@@ -144,7 +144,7 @@
 								<div class="divTableBody">
 								<div class="divTableRow">
 								<div class="divTableCellLeft"><img src="https://leesun.digital/wp-content/uploads/2022/03/cropped-cropped-MicrosoftTeams-image-8-1-1.png" alt="Portada – Elegant WordPress Blogging Theme">
-								<p> How to give the most thoughtful sympathy gifts for loss of mother? The key to choosing the best meaningful sympathy gift is simple. Just something to show your condolence and your deep care for this person.&nbsp; That’s it. When one loses their Mom, it quite seems like they literally…</p>
+								<p>The best gift ever for any occasion is a personalized gift. Even you are looking for a sympathy gift, an anniversary gift, or a gift for your loved one...we can help you find the best ideas and gifts. The Magic Exhalation's mission is to be your assistant to pick the most unique and meaningful gift for anyone!</p>
 								</div>
 								<div class="divTableCellRight">
 									<h5>QUICK LINKS</h5>
