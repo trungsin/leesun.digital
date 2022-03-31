@@ -19,6 +19,7 @@
 		var $menuResponsive;
 		
 		var $menuBox;
+		var $logomoblie;
 		var $menuBoxHeight;
 		
 		var $menuSticky;
@@ -152,6 +153,7 @@
 				{
 					console.log("remove");
 					$menu.removeClass('theme-header-menu-sticky');
+					$('#logomobile').css("display","none");
 					$self.setMenuBoxHeight();
 				}
 			}
@@ -160,6 +162,7 @@
 				if($(window).scrollTop()>=$menu.position().top-offset)
 				{
 					console.log("add");
+					$('#logomobile').css("display","block");
 					$menu.addClass('theme-header-menu-sticky');
 					$self.setMenuBoxHeight();
 				}				
