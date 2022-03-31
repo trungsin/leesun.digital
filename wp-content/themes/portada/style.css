@@ -1304,7 +1304,7 @@ input[type="submit"]
 
 		.theme-header.theme-mode-responsive .theme-header-menu.theme-header-menu-sticky
 		{
-			position:static;
+			/*position:static;*/
 		}
 		
 			.theme-header .theme-header-menu.theme-header-menu-sticky .theme-header-menu-default
