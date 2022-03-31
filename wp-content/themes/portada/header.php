@@ -76,17 +76,17 @@
 <?php
 			}
 			
-			if(Portada_ThemePlugin::isActive('WooCommerce'))
-			{
-				global $woocommerce;
+			// if(Portada_ThemePlugin::isActive('WooCommerce'))
+			// {
+			// 	global $woocommerce;
 ?>
-							<div class="theme-header-top-bar-woocommerce-icon">
+		<!--					<div class="theme-header-top-bar-woocommerce-icon">
 								<a class="theme-woocommerce-icon" href="<?php echo esc_url(wc_get_cart_url()); ?>">
 									<span><?php echo (int)$woocommerce->cart->cart_contents_count; ?></span>
 								</a>
-							</div>
+							</div>-->
 <?php				
-			}
+//			}
 ?>
 						</div>
 							
