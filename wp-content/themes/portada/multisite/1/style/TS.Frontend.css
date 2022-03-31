@@ -1507,7 +1507,7 @@ html #add_payment_method .cart-collaterals .cart_totals tr th
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li.current-menu-ancestor>a,
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li.current-page-ancestor>a
 {
-	background-color:#131313;
+	background-color:#FFFFFF;
 }
 
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li.menu-item-has-children>a::after
