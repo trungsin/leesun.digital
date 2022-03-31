@@ -1475,14 +1475,14 @@ html #add_payment_method .cart-collaterals .cart_totals tr th
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li.current-menu-ancestor>a,
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li.current-page-ancestor>a
 {
-	color:#84B288;
+	color:#48CAB2;
 }
 
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li>a
 {
 	border-color:#131313;
 	border-style:solid;
-	border-width:1px;
+	border-width:0px;
 }
 
 .theme-header-menu .theme-header-menu-default>.sf-menu li:hover ul li:hover>a,
@@ -1493,7 +1493,7 @@ html #add_payment_method .cart-collaterals .cart_totals tr th
 {
 	border-color:#131313;
 	border-style:solid;
-	border-width:1px;
+	border-width:0px;
 }
 
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li>a
