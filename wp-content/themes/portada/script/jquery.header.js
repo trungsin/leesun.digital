@@ -70,7 +70,6 @@
 				{
 					$self.setHeaderResponsive();
 					$self.createMenuSticky();
-										$('#logomobile').css("display","none");
 
 				}
 			}});
