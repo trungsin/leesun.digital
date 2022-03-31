@@ -139,12 +139,12 @@
 			
 			var offset=(parseInt($('#wpadminbar').length,10)===1 ? $('#wpadminbar').actual('height') : 0);
 			
-			if($header.hasClass('theme-mode-responsive'))
-			{
-				$menu.removeClass('theme-header-menu-sticky');
-				$self.setMenuBoxHeight();
-				return;
-			}
+			// if($header.hasClass('theme-mode-responsive'))
+			// {
+			// 	$menu.removeClass('theme-header-menu-sticky');
+			// 	$self.setMenuBoxHeight();
+			// 	return;
+			// }
 			
 			if($menu.hasClass('theme-header-menu-sticky'))
 			{
