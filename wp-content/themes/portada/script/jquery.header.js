@@ -150,6 +150,7 @@
 			{
 				if($(window).scrollTop()<=$menuBox.position().top-offset)
 				{
+					console.log("remove");
 					$menu.removeClass('theme-header-menu-sticky');
 					$self.setMenuBoxHeight();
 				}
@@ -158,6 +159,7 @@
 			{
 				if($(window).scrollTop()>=$menu.position().top-offset)
 				{
+					console.log("add");
 					$menu.addClass('theme-header-menu-sticky');
 					$self.setMenuBoxHeight();
 				}				
