@@ -69,7 +69,7 @@ class Portada_ThemeSocialProfile
 		
 		$shortcode=null;
 		foreach($socialProfile as $index=>$value)
-			$shortcode.=' profile_'.$index.'_url="'.$value['address'].'" profile_'.$index.'_order="'.$value['order'].'"';
+			$shortcode.=' native_color_enable ="1" profile_'.$index.'_url="'.$value['address'].'" profile_'.$index.'_order="'.$value['order'].'"';
 		
 		return(do_shortcode('[pb_social_icon '.$shortcode.'][/pb_social_icon]'));
 	}
