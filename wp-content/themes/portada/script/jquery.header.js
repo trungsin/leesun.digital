@@ -163,7 +163,7 @@
 				if($(window).scrollTop()>=$menu.position().top-offset)
 				{
 					console.log("add");
-					$('#logomobile').css("display","block");
+					$('#logomobile').css("display","inline");
 					$menu.addClass('theme-header-menu-sticky');
 					$self.setMenuBoxHeight();
 				}				
