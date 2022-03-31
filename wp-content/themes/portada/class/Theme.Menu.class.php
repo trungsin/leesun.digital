@@ -118,6 +118,9 @@ class Portada_ThemeMenu
 				<div'.Portada_ThemeHelper::createClassAttribute($classMenuResponsive).'>
 					<div class="theme-clear-fix">
 						<a href="#"></a>
+						<a href="'.esc_url(get_home_url()).'" title="'. bloginfo('name').'">
+								<img src="'.esc_url(Portada_ThemeOption::getOption('header_logo_src')).'" alt="'. bloginfo('name').'"/>
+							</a>
 						'.$htmlWooCommerce.'
 						'.$htmlSocialProfile.'
 					</div>
