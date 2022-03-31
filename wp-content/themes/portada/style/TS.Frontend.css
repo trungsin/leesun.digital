@@ -1421,7 +1421,7 @@ html #add_payment_method .cart-collaterals .cart_totals tr th
 {
 	border-color:#E8E8E8;
 	border-style:solid;
-	border-width:1px;
+	border-width:0px;
 }
 
 .theme-header-menu .theme-header-menu-default>.sf-menu li:hover ul li:hover>a,
@@ -1432,7 +1432,7 @@ html #add_payment_method .cart-collaterals .cart_totals tr th
 {
 	border-color:#E8E8E8;
 	border-style:solid;
-	border-width:1px;
+	border-width:0px;
 }
 
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li>a
@@ -1451,7 +1451,7 @@ html #add_payment_method .cart-collaterals .cart_totals tr th
 
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li.menu-item-has-children>a::after
 {
-	color:#ECA2AD;
+	color:#48CAB2;
 }
 
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li.menu-item-has-children:hover>a::after,
@@ -1460,7 +1460,7 @@ html #add_payment_method .cart-collaterals .cart_totals tr th
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li.menu-item-has-children.current-menu-ancestor>a::after,
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li.menu-item-has-children.current-page-ancestor>a::after
 {
-	color:#ECA2AD;
+	color:#48CAB2;
 }
 
 .theme-header .theme-header-top-bar-search>form>div::after
@@ -1471,7 +1471,7 @@ html #add_payment_method .cart-collaterals .cart_totals tr th
 .theme-header .theme-header-top-bar-search>form>div::after
 {
 	border-color:#E8E8E8;
-	border-width:1px;
+	border-width:0px;
 	border-style:solid;
 }
 
@@ -1496,7 +1496,7 @@ html #add_payment_method .cart-collaterals .cart_totals tr th
 .theme-header-menu .theme-header-menu-responsive>div>div.theme-header-menu-responsive-social-profile>ul.pb-social-icon>li>a
 {
 	border-color:#E8E8E8;
-	border-width:1px;
+	border-width:0px;
 	border-style:solid;
 }
 
@@ -1504,7 +1504,7 @@ html #add_payment_method .cart-collaterals .cart_totals tr th
 .theme-header-menu .theme-header-menu-responsive>div>div.theme-header-menu-responsive-social-profile>ul.pb-social-icon>li>a:hover
 {
 	border-color:#131313;
-	border-width:1px;
+	border-width:0px;
 	border-style:solid;
 }
 
