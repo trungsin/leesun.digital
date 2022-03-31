@@ -1455,13 +1455,13 @@ html #add_payment_method .cart-collaterals .cart_totals tr th
 
 .theme-header-menu .theme-header-menu-default>.sf-menu>li.menu-item-has-children>a::after
 {
-	color:#84B288;
+	color:#48CAB2;
 }
 
 .theme-header-menu .theme-header-menu-default>.sf-menu>li.menu-item-has-children>a:hover::after,
 .theme-header-menu .theme-header-menu-default>.sf-menu>li.menu-item-has-children.sfHover>a::after
 {
-	color:#84B288;
+	color:#48CAB2;
 }
 
 .theme-header-menu .theme-header-menu-default>.sf-menu li ul li>a
