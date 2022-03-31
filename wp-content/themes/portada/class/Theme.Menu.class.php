@@ -84,18 +84,18 @@ class Portada_ThemeMenu
 		);
 	
 		$htmlWooCommerce=null;
-		if(Portada_ThemePlugin::isActive('WooCommerce'))
-		{
-			global $woocommerce;
-			$htmlWooCommerce=
-			'
-				<div class="theme-header-menu-responsive-woocommerce-icon">
-					<a class="theme-woocommerce-icon" href="'.esc_url(wc_get_cart_url()).'">
-						<span>'.(int)$woocommerce->cart->cart_contents_count.'</span>
-					</a>
-				</div>
-			';
-		}
+		// if(Portada_ThemePlugin::isActive('WooCommerce'))
+		// {
+		// 	global $woocommerce;
+		// 	$htmlWooCommerce=
+		// 	'
+		// 		<div class="theme-header-menu-responsive-woocommerce-icon">
+		// 			<a class="theme-woocommerce-icon" href="'.esc_url(wc_get_cart_url()).'">
+		// 				<span>'.(int)$woocommerce->cart->cart_contents_count.'</span>
+		// 			</a>
+		// 		</div>
+		// 	';
+		// }
 	
 		if(Portada_ThemeOption::getGlobalOption($portadaParentPost->post,'header_top_social_icon_enable')==1)
 		{
