@@ -199,7 +199,7 @@ function closeSearch() {
 					<div class="theme-clear-fix">
 						<a href="#"></a>
 						<div class="theme-header-top-bar-search">
-						<img style="height:25px; width:108px; display:inline;" id="logomobile" src="'.esc_url(Portada_ThemeOption::getOption('header_logo_src')).'"/> </div
+						<img style="height:25px; width:108px; display:inline;" id="logomobile" src="'.esc_url(Portada_ThemeOption::getOption('header_logo_src')).'"/> </div>
 						'.$htmlWooCommerce.'
 						
 					</div>
