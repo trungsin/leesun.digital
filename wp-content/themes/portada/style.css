@@ -271,6 +271,7 @@ h1,h2,h3,h4,h5,h6
 .theme-header-menu .theme-header-menu-responsive>ul li ul>li.menu-item-has-children>a::after,
 body.page-template-maintenance .theme-content>.theme-main>div::after,
 .theme-header .theme-header-top-bar-search>form>div::after,
+.theme-header .theme-header-top-bar-search>img::after,
 .theme-post .theme-post-bar>.theme-post-bar-comment>span>a::before,
 .theme-post .theme-post-bar>.theme-post-bar-like>span>a::before,
 .theme-header-menu .theme-header-menu-responsive>div>a::before,
@@ -4786,6 +4787,10 @@ body.page-template-maintenance
 		}
 		
 		body.theme-responsive-mode-enable .theme-header .theme-header-top-bar-search>form>div::after
+		{
+			right:0px;
+		}
+		body.theme-responsive-mode-enable .theme-header .theme-header-top-bar-search>img::after
 		{
 			right:0px;
 		}
