@@ -118,7 +118,7 @@ class Portada_ThemeMenu
 				<div'.Portada_ThemeHelper::createClassAttribute($classMenuResponsive).'>
 					<div class="theme-clear-fix">
 						<a href="#"></a>
-						<img style="height:25px; width:108px; display:none;" id="logomobile" src="'.esc_url(Portada_ThemeOption::getOption('header_logo_src')).'"/>
+						<img style="height:25px; width:108px; display:inline;" id="logomobile" src="'.esc_url(Portada_ThemeOption::getOption('header_logo_src')).'"/>
 						'.$htmlWooCommerce.'
 						'.$htmlSocialProfile.'
 					</div>
