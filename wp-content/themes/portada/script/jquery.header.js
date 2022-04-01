@@ -154,7 +154,7 @@
 				{
 					console.log("remove");
 					$menu.removeClass('theme-header-menu-sticky');
-					$('#logomobile').css("display","none");
+					// $('#logomobile').css("display","none");
 					$self.setMenuBoxHeight();
 				}
 			}
@@ -163,7 +163,7 @@
 				if($(window).scrollTop()>=$menu.position().top-offset)
 				{
 					console.log("add");
-					$('#logomobile').css("display","inline");
+					// $('#logomobile').css("display","inline");
 					$menu.addClass('theme-header-menu-sticky');
 					$self.setMenuBoxHeight();
 				}				
