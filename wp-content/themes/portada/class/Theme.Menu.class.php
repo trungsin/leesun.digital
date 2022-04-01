@@ -182,7 +182,7 @@ class Portada_ThemeMenu
 function openSearch() {
   document.getElementById("myOverlay").style.display = "block";
 }
-document.getElementById("myOverlay").children.addEventListener("click", document.getElementById("myOverlay").style.display = "block");
+//document.getElementById("myOverlay").children.addEventListener("click", document.getElementById("myOverlay").style.display = "block");
 
 function closeSearch() {
   document.getElementById("myOverlay").style.display = "none";
@@ -201,13 +201,7 @@ function closeSearch() {
 						<a href="#"></a>
 						<img style="height:25px; width:108px; display:inline;" id="logomobile" src="'.esc_url(Portada_ThemeOption::getOption('header_logo_src')).'"/>
 						'.$htmlWooCommerce.'
-						<div class="theme-header-top-bar-search">
-								<form action="'.get_site_url().'" method="GET">
-									<div>
-										<input type="text" id="s_" name="s" value=""/>
-									</div>
-								</form>
-							</div>		
+						<button class="btn"><i class="fa fa-home"></i></button>
 						
 					</div>
 					'.wp_nav_menu($menuResponsiveAttribute).'
