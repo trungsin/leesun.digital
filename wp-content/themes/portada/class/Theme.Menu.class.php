@@ -169,6 +169,17 @@ class Portada_ThemeMenu
 .overlay button:hover {
   background: #bbb;
 }
+.iconsearch {
+	width: 32px;
+    height: 32px;
+    content: "\78";
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    position: absolute;
+    border-radius: 100%;
+    transform: scaleX(-1);
+}
 </style><div id="myOverlay" class="overlay">
   <span class="closebtn" onclick="closeSearch()" title="Close Overlay">×</span>
   <div class="overlay-content">
@@ -201,14 +212,9 @@ function closeSearch() {
 						<a href="#"></a>
 						<img style="height:25px; width:108px; display:inline;" id="logomobile" src="'.esc_url(Portada_ThemeOption::getOption('header_logo_src')).'"/>
 						'.$htmlWooCommerce.'
-						<div class="theme-header-top-bar-search">
-								<form action="'.get_site_url().'" method="GET">
-									<div>
-										<input type="text" id="s_" name="s" value=""/>
-									</div>
-								</form>
-							</div>		
-						
+							
+						<button class="btn"><i class="fa iconsearch"></i></button>
+
 					</div>
 					'.wp_nav_menu($menuResponsiveAttribute).'
 				</div>
