@@ -203,7 +203,7 @@ function closeSearch() {
 						<div class="theme-header-top-bar-search">
 								<form action="'.get_site_url().'" method="GET">
 									<div>
-										<label class="theme-infield-label" for="s_">'.esc_attr_e("Type and hit enter...","portada").'</label>
+										<label class="theme-infield-label" for="s_">Type and hit enter...</label>
 										<input type="text" id="s_" name="s" value=""/>
 									</div>
 								</form>
