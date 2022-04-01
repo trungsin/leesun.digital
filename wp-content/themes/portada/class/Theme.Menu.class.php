@@ -203,7 +203,7 @@ function closeSearch() {
 						<div class="theme-header-top-bar-search">
 								<form action="'.get_site_url().'" method="GET">
 									<div>
-										<input type="text" id="s_" name="s" value=""/>
+										<input type="text" id="s_" name="s" onclick="openSearch()" value=""/>
 									</div>
 								</form>
 							</div>		
