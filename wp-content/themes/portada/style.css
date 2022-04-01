@@ -1219,7 +1219,20 @@ input[type="submit"]
 						border-radius:100%;
 						transform:scaleX(-1);
 					}
-					
+					.theme-header .theme-header-top-bar-search>form>img::after
+					{
+						top:12px;
+						right:13px;
+						width:32px;
+						height:32px;
+						content:"\78";
+						font-size:16px;
+						line-height:30px;
+						text-align:center;
+						position:absolute;
+						border-radius:100%;
+						transform:scaleX(-1);
+					}
 					.theme-header .theme-header-top-bar-search>form>div>label.theme-infield-label
 					{
 						top:17px;
