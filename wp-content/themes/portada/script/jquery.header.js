@@ -33,7 +33,7 @@
 			$menu=$('.theme-header .theme-header-menu');
 			$menuDefault=$('.theme-header .theme-header-menu-default');
 			$menuResponsive=$('.theme-header .theme-header-menu-responsive');
-			
+			$headerlogo = $('.theme-header-logo');
 			$menuBox=$menu.prev('.theme-header-menu-box');
 			
 			$menuBoxHeight=0;
@@ -143,7 +143,7 @@
 			
 			if($header.hasClass('theme-mode-responsive'))
 			{
-				$menu.css("display","none");
+				$headerlogo.css("display","none");
 				$menu.removeClass('theme-header-menu-sticky');
 				$self.setMenuBoxHeight();
 				return;
