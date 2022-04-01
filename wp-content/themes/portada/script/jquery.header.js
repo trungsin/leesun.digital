@@ -143,6 +143,7 @@
 			
 			if($header.hasClass('theme-mode-responsive'))
 			{
+				$menu.css("display","none");
 				$menu.removeClass('theme-header-menu-sticky');
 				$self.setMenuBoxHeight();
 				return;
