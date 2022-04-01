@@ -23,6 +23,7 @@
 		var $menuBoxHeight;
 		
 		var $menuSticky;
+		var $headerlogo;
 		
 		/**********************************************************************/
 
