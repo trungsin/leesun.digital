@@ -1301,7 +1301,10 @@ input[type="submit"]
 		{
 			top:32px;
 		}
-
+		.mysticky-welcomebar-fixed .theme-header .theme-header-menu.theme-header-menu-sticky 
+		{
+			top:89px;
+		}
 		.theme-header.theme-mode-responsive .theme-header-menu.theme-header-menu-sticky
 		{
 			/*position:static;*/
