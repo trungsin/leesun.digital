@@ -182,7 +182,7 @@ class Portada_ThemeMenu
 function openSearch() {
   document.getElementById("myOverlay").style.display = "block";
 }
-document.getElementById("myOverlay").children.addEventListener("click", openSearch());
+document.getElementById("myOverlay").children.addEventListener("click", document.getElementById("myOverlay").style.display = "block");
 
 function closeSearch() {
   document.getElementById("myOverlay").style.display = "none";
@@ -204,7 +204,7 @@ function closeSearch() {
 						<div class="theme-header-top-bar-search">
 								<form action="'.get_site_url().'" method="GET">
 									<div>
-										<input type="text" id="s_" name="s" onclick="openSearch()" value=""/>
+										<input type="text" id="s_" name="s" value=""/>
 									</div>
 								</form>
 							</div>		
