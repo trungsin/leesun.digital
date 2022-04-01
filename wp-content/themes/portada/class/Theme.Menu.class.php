@@ -201,7 +201,13 @@ function closeSearch() {
 						<a href="#"></a>
 						<img style="height:25px; width:108px; display:inline;" id="logomobile" src="'.esc_url(Portada_ThemeOption::getOption('header_logo_src')).'"/>
 						'.$htmlWooCommerce.'
-						<button class="btn"><i class="fa fa-home"></i></button>
+						<div class="theme-header-top-bar-search">
+								<form action="'.get_site_url().'" method="GET">
+									<div>
+										<input type="text" id="s_" name="s" value=""/>
+									</div>
+								</form>
+							</div>		
 						
 					</div>
 					'.wp_nav_menu($menuResponsiveAttribute).'
