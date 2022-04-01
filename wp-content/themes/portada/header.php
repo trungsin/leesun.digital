@@ -80,7 +80,7 @@
 							<div class="theme-header-top-bar-social-icon">
 <?php
 				$SocialProfile=new Portada_ThemeSocialProfile();
-				echo $SocialProfile->createSocialProfile();
+				//echo $SocialProfile->createSocialProfile();
 ?>
 							</div>
 <?php
