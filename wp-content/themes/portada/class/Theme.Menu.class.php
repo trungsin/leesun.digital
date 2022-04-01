@@ -182,9 +182,8 @@ class Portada_ThemeMenu
 function openSearch() {
   document.getElementById("myOverlay").style.display = "block";
 }
-document.getElementById("myOverlay").children.on("click",function(event){
-openSearch();
-});
+document.getElementById("myOverlay").children.onclick = openSearch();
+
 function closeSearch() {
   document.getElementById("myOverlay").style.display = "none";
 }
