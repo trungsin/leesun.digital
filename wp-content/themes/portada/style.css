@@ -1219,7 +1219,7 @@ input[type="submit"]
 						border-radius:100%;
 						transform:scaleX(-1);
 					}
-					.theme-header .theme-header-top-bar-search>form>img::after
+					.theme-header .theme-header-top-bar-search>img::after
 					{
 						top:12px;
 						right:13px;
