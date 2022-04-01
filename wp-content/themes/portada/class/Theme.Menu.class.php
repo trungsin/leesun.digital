@@ -170,6 +170,7 @@ class Portada_ThemeMenu
   background: #bbb;
 }
 .iconsearch {
+	    font-family: 'font-2' !important;
 	width: 32px;
     height: 32px;
     content: "\78";
