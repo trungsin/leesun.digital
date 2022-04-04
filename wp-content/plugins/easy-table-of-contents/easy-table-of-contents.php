@@ -1,15 +1,15 @@
 <?php
 /**
  * Plugin Name: Easy Table of Contents
- * Plugin URI: http://connections-pro.com/
+ * Plugin URI: https://magazine3.company/
  * Description: Adds a user friendly and fully automatic way to create and display a table of contents generated from the page content.
- * Version: 2.0.17
- * Author: Steven A. Zahm
- * Author URI: http://connections-pro.com/
+ * Version: 2.0.18
+ * Author: Magazine3
+ * Author URI: https://magazine3.company/
  * Text Domain: easy-table-of-contents
  * Domain Path: /languages
  *
- * Copyright 2021  Steven A. Zahm  ( email : helpdesk@connections-pro.com )
+ * Copyright 2022  Magazine3  ( email : support@magazine3.in )
  *
  * Easy Table of Contents is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License, version 2, as
@@ -25,8 +25,8 @@
  *
  * @package  Easy Table of Contents
  * @category Plugin
- * @author   Steven A. Zahm
- * @version  2.0.17
+ * @author   Magazine3
+ * @version  2.0.18
  */
 
 use Easy_Plugins\Table_Of_Contents\Debug;
@@ -48,7 +48,7 @@ if ( ! class_exists( 'ezTOC' ) ) {
 		 * @since 1.0
 		 * @var string
 		 */
-		const VERSION = '2.0.17';
+		const VERSION = '2.0.18';
 
 		/**
 		 * Stores the instance of this class.
