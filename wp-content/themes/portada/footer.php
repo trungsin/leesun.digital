@@ -104,6 +104,11 @@
 							}
 							.divTableRow {
 								display: table-row;
+								display: grid;
+							    grid-gap: 5px;
+							    grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+							    /* grid-template-rows: repeat(2, 360px); */
+							}
 							}
 							.divTableHeading {
 								background-color: #EEE;
@@ -113,13 +118,13 @@
 								border: 0px solid #999999;
 								display: table-cell;
 								padding: 3px 10px;
-								width: 60%;
+								/*width: 60%;*/
 							}
 							.divTableCellRight {
 								border: 0px solid #999999;
 								display: table-cell;
 								padding: 3px 10px;
-								width: 40%;
+								/*width: 40%;*/
 								    vertical-align: top;
 
 							}
