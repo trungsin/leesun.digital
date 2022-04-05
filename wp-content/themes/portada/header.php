@@ -155,9 +155,14 @@
 <?php
 			}
 		}
-					?><button data-toggle="collapse" data-target="#bellows-main-119">Collapsible</button>
-					<?php bellows( 'main' , array( 'menu' => 119 ) ); ?>
+				?><button data-toggle="collapse" data-target="#menu-blog">Collapsible</button>
+
+				<div id="menu-blog" class="collapse">
+				<?php bellows( 'main' , array( 'menu' => 119 ) ); ?>
+				</div>
+
 					</div>
+					
 				</div>
 <div class="theme-main theme-clear-fix">
 </div>						
