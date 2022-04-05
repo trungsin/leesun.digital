@@ -151,7 +151,12 @@
 <?php
 			}
 		}
-?>
+?><button data-toggle="collapse" data-target="#demo">Collapsible</button>
+
+<div id="demo" class="collapse">
+<?php bellows( 'main' , array( 'menu' => 119 ) ); ?>
+</div>
+
 					</div>
 					
 				</div>
