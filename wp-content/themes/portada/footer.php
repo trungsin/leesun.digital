@@ -223,9 +223,8 @@
 												echo $SocialProfile->createSocialProfile();
 								?>
 								</div>
-								<h2>
-            Subscribe last news For Free
-         </hgroup>
+								<h5>
+            Subscribe last news For Free</h5>
     	 <div class="well">
              <form action="#">
               <div class="input-group">
