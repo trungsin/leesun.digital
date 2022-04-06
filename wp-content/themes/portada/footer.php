@@ -141,6 +141,56 @@
 							.divTableBody {
 								display: table-row-group;
 							}
+
+							/*subscribe mail*/
+							section {
+							    padding: 100px 0;
+							    text-align: center;
+							}
+							select.frecuency {
+							    border: none;
+							    font-style: italic;
+							    background-color: transparent;
+							    cursor: pointer;
+							    -webkit-transform: translateY(0);
+							    transform: translateY(0);
+							    -webkit-transition: -webkit-transform .35s ease-in;
+							    transition: -webkit-transform .35s ease-in;
+							    border-bottom: none;
+							}
+							select.frecuency:focus {
+							    outline: none;
+							    border-bottom: 5px solid #39b3d7;
+							    -webkit-transform: translateY(-5px);
+							    transform: translateY(-5px);
+							    -webkit-transition: -webkit-transform .35s ease-in;
+							    transition: -webkit-transform .35s ease-in;
+							}
+							.free {
+							    text-transform: uppercase;
+							}
+							.input-group {
+							    margin: 20px auto;
+							    width: 100%;
+							}
+							input.btn.btn-lg,
+							input.btn.btn-lg:focus {
+							    outline: none;
+							    width: 60%;
+							    height: 60px;
+							    border-top-right-radius: 0;
+							    border-bottom-right-radius: 0;
+							}
+							button.btn {
+							    width: 40%;
+							    height: 60px;
+							    border-top-left-radius: 0;
+							    border-bottom-left-radius: 0;
+							}
+							.promise {
+							    color: #999;
+							}
+
 					</style>
 					<div class="theme-main theme-clear-fix theme-page-sidebar-enable theme-page-sidebar-right">
 							<div class="theme-column-left">
@@ -169,11 +219,26 @@
 												echo $SocialProfile->createSocialProfile();
 								?>
 								</div>
-								<p>
-									<label>
-										<input type="checkbox" name="mc4wp-subscribe" value="1" />
-										Subscribe to our newsletter.	</label>
-								</p>
+								<h2>
+            Subscribe for
+             <select class="frecuency">
+                 <option value="0">daily</option>
+                 <option value="1" selected>weekly</option>
+                 <option value="2">monthly</option>
+             </select>
+            newsletter 
+          </h2>
+          <h1 class="free">For Free</h1>
+         </hgroup>
+    	 <div class="well">
+             <form action="#">
+              <div class="input-group">
+                 <input class="btn btn-lg" name="email" id="email" type="email" placeholder="Your Email" required>
+                 <button class="btn btn-info btn-lg" type="submit">Submit</button>
+              </div>
+             </form>
+    	 </div>
+         <small class="promise"><em>We won't send spam.</em></small>
 
 
 							</div>
