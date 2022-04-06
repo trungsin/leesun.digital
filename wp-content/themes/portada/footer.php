@@ -177,18 +177,19 @@
 							input.btn.btn-lg:focus {
 							    outline: none;
 							    width: 60%;
-							    height: 60px;
+							    height: 40px;
 							    border-top-right-radius: 0;
 							    border-bottom-right-radius: 0;
 							}
 							button.btn {
 							    width: 40%;
-							    height: 60px;
+							    height: 40px;
 							    border-top-left-radius: 0;
 							    border-bottom-left-radius: 0;
 							}
 							button.btn-info{
 								background-color: #3DAC97;
+								padding: 0px;
 							}
 							.promise {
 							    color: #999;
