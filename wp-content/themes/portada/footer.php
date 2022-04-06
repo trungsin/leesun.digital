@@ -187,6 +187,9 @@
 							    border-top-left-radius: 0;
 							    border-bottom-left-radius: 0;
 							}
+							button.btn-info{
+								background-color: #3DAC97;
+							}
 							.promise {
 							    color: #999;
 							}
@@ -220,21 +223,13 @@
 								?>
 								</div>
 								<h2>
-            Subscribe for
-             <select class="frecuency">
-                 <option value="0">daily</option>
-                 <option value="1" selected>weekly</option>
-                 <option value="2">monthly</option>
-             </select>
-            newsletter 
-          </h2>
-          <h1 class="free">For Free</h1>
+            Subscribe last news For Free
          </hgroup>
     	 <div class="well">
              <form action="#">
               <div class="input-group">
                  <input class="btn btn-lg" name="email" id="email" type="email" placeholder="Your Email" required>
-                 <button class="btn btn-info btn-lg" type="submit">Submit</button>
+                 <button class="btn btn-info" type="submit">SUBSCRIBE</button>
               </div>
              </form>
     	 </div>
