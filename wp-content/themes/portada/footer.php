@@ -223,19 +223,8 @@
 												echo $SocialProfile->createSocialProfile();
 								?>
 								</div>
-								<h5>
-            Subscribe last news For Free</h5>
-    	 <div class="well">
-             <form action="#">
-              <div class="input-group">
-                 <input class="btn btn-lg" name="email" id="email" type="email" placeholder="Your Email" required>
-                 <button class="btn btn-info" type="submit">SUBSCRIBE</button>
-              </div>
-             </form>
-    	 </div>
-         <small class="promise"><em>We won't send spam.</em></small>
-
-
+								<br>
+									<?php echo do_shortcode('[mc4wp_form id="972"]'); ?>
 							</div>
 					</div>
 <?php
