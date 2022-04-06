@@ -169,6 +169,13 @@
 												echo $SocialProfile->createSocialProfile();
 								?>
 								</div>
+								<p>
+									<label>
+										<input type="checkbox" name="mc4wp-subscribe" value="1" />
+										Subscribe to our newsletter.	</label>
+								</p>
+
+
 							</div>
 					</div>
 <?php
