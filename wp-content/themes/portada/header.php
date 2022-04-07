@@ -64,7 +64,7 @@
 	.theme-header-menu {
 		width: 100% !important;
 	}
-	
+
 </style>
 			</head>
 
@@ -162,11 +162,16 @@
 		        </button>
 
 				<div id="menu-blog" class="collapse"> -->
-				<ul id="accordion" class="accordion">
-  <li> <div class="link"><i class="fa fa-database"></i>Web Design<i class="fa fa-chevron-down"></i></div>
+				<div class="accordion" id="accordionExample">
+				  <div class="accordion-item">
+				    <h2 class="accordion-header" id="headingOne">
+				      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+				        Accordion Item #1
+				      </button>
+				    </h2>
 				<?php bellows( 'main' , array( 'menu' => 119 ) ); ?>
-			</li>
-		</ul>
+				</div>
+			</div>
 				<!-- </div> -->
 
 					</div>
