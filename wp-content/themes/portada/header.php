@@ -155,13 +155,14 @@
 <?php
 			}
 		}
-				?><button data-toggle="collapse" data-target="#menu-blog" class="menublog">
+				?>
+				<!--<button data-toggle="collapse" data-target="#menu-blog" class="menublog">
 		          <span class="glyphicon glyphicon-search" aria-hidden="true"></span>ALL of Blogs
 		        </button>
 
-				<div id="menu-blog" class="collapse">
+				<div id="menu-blog" class="collapse"> -->
 				<?php bellows( 'main' , array( 'menu' => 119 ) ); ?>
-				</div>
+				<!-- </div> -->
 
 					</div>
 					
