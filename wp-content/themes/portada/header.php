@@ -156,7 +156,7 @@
 			}
 		}
 				?><button data-toggle="collapse" data-target="#menu-blog" class="menublog">
-		          <i class="bi bi-menu-up"></i>ALL of Blogs
+		          <span class="glyphicon glyphicon-search" aria-hidden="true"></span>ALL of Blogs
 		        </button>
 
 				<div id="menu-blog" class="collapse">
